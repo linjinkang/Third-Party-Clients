@@ -80,10 +80,10 @@
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=linjinkang%2Fthird-party-clients&type=timeline&logscale=&legend=top-right">
+<a href="https://www.star-history.com/?repos=linjinkang%2Fthird-party-clients&type=timeline&logscale=&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=linjinkang/third-party-clients&type=timeline&theme=dark&logscale&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=linjinkang/third-party-clients&type=timeline&logscale&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=linjinkang/third-party-clients&type=timeline&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=linjinkang/third-party-clients&type=date&theme=dark&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=linjinkang/third-party-clients&type=date&logscale&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=linjinkang/third-party-clients&type=date&logscale&legend=top-left" />
  </picture>
 </a>
