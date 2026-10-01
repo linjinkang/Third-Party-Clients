@@ -24,6 +24,7 @@
 | BT | https://github.com/chinasoul/BT | Android TV |
 | Bili.Copilot | https://github.com/Richasy/Bili.Copilot | Windows |
 | bilibili-linux | https://github.com/msojocs/bilibili-linux | Linux |
+| pilipala | https://github.com/guozhigq/pilipala | Android / iOS |
 
 ## 知乎
 
@@ -37,6 +38,10 @@
 | --- | --- | --- |
 | Hanairo | https://github.com/youshen2/Hanairo | iOS / macOS / visionOS |
 | Pixiv-SwiftUI | https://github.com/Eslzzyl/Pixiv-SwiftUI | iOS / iPadOS / macOS |
+| PiPixiv | https://github.com/darriousliu/PiPixiv | Android / iOS / Windows / macOS / Linux / Web |
+| Pix-EzViewer | https://github.com/Notsfsssf/Pix-EzViewer | Android |
+| Pixiv-Shaft | https://github.com/CeuiLiSA/Pixiv-Shaft | Android |
+| pixez-flutter | https://github.com/Notsfsssf/pixez-flutter | Android / iOS / Windows |
 
 ## IT之家
 
@@ -50,6 +55,14 @@
 | --- | --- | --- |
 | coolapk-desktop | https://github.com/daimiaopeng/coolapk-desktop | Windows / macOS / Linux / Android / iOS |
 
+## 漫画
+
+| 项目名称 | 链接 | 支持平台 |
+| --- | --- | --- |
+| haka_comic | https://github.com/raoxwup/haka_comic | Android |
+| EMHentai | https://github.com/yuman07/EMHentai | Android |
+| ACAC | https://github.com/xiaye13579/ACAC | Android |
+
 ## 音乐播放器
 
 | 项目名称 | 链接 | 支持平台 |
@@ -58,6 +71,18 @@
 | SPlayer | https://github.com/SPlayer-Dev/SPlayer | Windows / macOS / Linux / Web |
 | Mineradio-paused | https://github.com/XxHuberrr/Mineradio-paused | macOS |
 | EchoMusic | https://github.com/hoowhoami/EchoMusic | Windows / macOS / Linux |
+| YTMusicUltimate | https://github.com/dayanch96/YTMusicUltimate | iOS / iPadOS |
+| Cymusic | https://github.com/gyc-12/Cymusic | Android |
+| KMusic | https://github.com/Mac-XK/KMusic | Android |
+| MeloX | https://github.com/youshen2/MeloX | iOS / iPadOS / macOS / watchOS |
+| Cider | https://github.com/ciderapp/Cider | Windows / macOS / Linux |
+| LynMusic | https://github.com/wesley666/LynMusic | Android |
+| SmartisanMusic-Revived | https://github.com/Mangi-11/SmartisanMusic-Revived | Android |
+| YTPlayer | https://github.com/ChenZ2000/YTPlayer | Windows |
+| MoeKoeMusic | https://github.com/MoeKoeMusic/MoeKoeMusic | Windows / macOS / Linux |
+| XpoMusic | https://github.com/MahdiGhiasi/XpoMusic | Windows |
+| VutronMusic | https://github.com/stark81/VutronMusic | Windows / macOS / Linux |
+| SaltPlayerSource | https://github.com/Moriafly/SaltPlayerSource | Android / Windows |
 
 ## 直播
 
@@ -71,12 +96,14 @@
 | --- | --- | --- |
 | Hako-Client | https://github.com/TokenPLS/Hako-Client | iOS / iPadOS / macOS / tvOS |
 | ClashBar | https://github.com/Sitoi/ClashBar | macOS |
+| clashmi | https://github.com/KaringX/clashmi | iOS / iPadOS / macOS / Android / Windows / Linux |
 
 ## 硬件外设
 
 | 项目名称 | 链接 | 支持平台 |
 | --- | --- | --- |
 | OpenLogi | https://github.com/AprilNEA/OpenLogi | Windows / macOS / Linux |
+
 
 ## Star History
 
