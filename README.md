@@ -10,18 +10,18 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 
 | | | |
 | --- | --- | --- |
-| 🎬 [AcFun](#acfun) | [<img src="https://img.shields.io/badge/-Apple_Music-fc3c44?logo=applemusic&logoColor=white&style=flat-square" alt="Apple Music">](#apple-music) | 📺 [Bilibili / 哔哩哔哩](#bilibili--哔哩哔哩) |
+| 🎬 [AcFun](#acfun) | [<img src="https://img.shields.io/badge/-Apple_Music-fc3c44?logo=applemusic&logoColor=white&style=flat-square" alt="Apple Music">](#Apple-Music) | [<img src="https://img.shields.io/badge/-Bilibili-00A1D6?logo=bilibili&logoColor=white&style=flat-square" alt="Bilibili">](#Bilibili) |
 | 📚 [Comics / 漫画](#comics--漫画) | 🔴 [Live Streaming / 直播](#live-streaming--直播) | 💬 [Messaging / 即时通讯](#messaging--即时通讯) |
-| 🐧 [QQ](#qq) | ✈️ [Telegram](#telegram) | 📱 [Coolapk / 酷安](#coolapk--酷安) |
+| [<img src="https://img.shields.io/badge/-QQ-12B7F5?logo=tencentqq&logoColor=white&style=flat-square" alt="QQ">](#qq) | ✈️ [Telegram](#telegram) | 📱 [Coolapk / 酷安](#coolapk--酷安) |
 | 🎤 [Kugou Music / 酷狗音乐](#kugou-music--酷狗音乐) | 🎵 [Music Players / 音乐播放器](#music-players--音乐播放器) | 🎶 [NetEase Cloud Music / 网易云音乐](#netease-cloud-music--网易云音乐) |
-| 🎧 [Spotify](#spotify) | ▶️ [YouTube Music](#youtube-music) | 🎨 [Pixiv](#pixiv) |
+| [<img src="https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white&style=flat-square" alt="Spotify">](#Spotify) | ▶️ [YouTube Music](#youtube-music) | 🎨 [Pixiv](#pixiv) |
 | 🗨️ [Tieba / 贴吧](#tieba--贴吧) | 🌐 [Network Proxy / 网络代理](#network-proxy--网络代理) | ☁️ [Cloud Drive & File Manager / 网盘 / 文件管理](#cloud-drive--file-manager--网盘--文件管理) |
 | 🖱️ [Hardware Peripherals / 硬件外设](#hardware-peripherals--硬件外设) | 🔧 [Tubatools / 图吧工具箱](#tubatools--图吧工具箱) | ⚙️ [System Tools / 系统工具](#system-tools--系统工具) |
 | 🧹 [CCleaner](#ccleaner) | 🔤 [Character Map / 字符映射表](#character-map--字符映射表) | 📅 [Education & Schedule / 教育 / 课程表](#education--schedule--教育--课程表) |
 | 🚀 [Launchers / 桌面启动器](#launchers--桌面启动器) | 🧠 [Zhihu / 知乎](#zhihu--知乎) | 🤝 [贡献 / Contributing](#贡献--contributing) |
 | 📄 [License](#license) | | |
 
-## 🎬 AcFun
+## AcFun
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra) | <a href="https://github.com/revblaze/AppleMusicUltra/stargazers"><img src="https://img.shields.io/github/stars/revblaze/AppleMusicUltra?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/revblaze/AppleMusicUltra/releases"><img src="https://img.shields.io/github/release-date/revblaze/AppleMusicUltra?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Cider](https://github.com/ciderapp/Cider) | <a href="https://github.com/ciderapp/Cider/stargazers"><img src="https://img.shields.io/github/stars/ciderapp/Cider?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/ciderapp/Cider/releases"><img src="https://img.shields.io/github/release-date/ciderapp/Cider?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 📺 Bilibili / 哔哩哔哩
+## Bilibili
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -65,7 +65,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [pilipro](https://github.com/naaammme/pilipro) | <a href="https://github.com/naaammme/pilipro/stargazers"><img src="https://img.shields.io/github/stars/naaammme/pilipro?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/naaammme/pilipro/releases"><img src="https://img.shields.io/github/release-date/naaammme/pilipro?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | [wiliwili](https://github.com/xfangfang/wiliwili) | <a href="https://github.com/xfangfang/wiliwili/stargazers"><img src="https://img.shields.io/github/stars/xfangfang/wiliwili?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/xfangfang/wiliwili/releases"><img src="https://img.shields.io/github/release-date/xfangfang/wiliwili?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ Nintendo Switch |
 
-## 📚 Comics / 漫画
+## Comics
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -74,7 +74,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [haka_comic](https://github.com/raoxwup/haka_comic) | <a href="https://github.com/raoxwup/haka_comic/stargazers"><img src="https://img.shields.io/github/stars/raoxwup/haka_comic?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/raoxwup/haka_comic/releases"><img src="https://img.shields.io/github/release-date/raoxwup/haka_comic?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | [WaifuX](https://github.com/jipika/WaifuX) | <a href="https://github.com/jipika/WaifuX/stargazers"><img src="https://img.shields.io/github/stars/jipika/WaifuX?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/jipika/WaifuX/releases"><img src="https://img.shields.io/github/release-date/jipika/WaifuX?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 🔴 Live Streaming / 直播
+## Live Streaming
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -82,25 +82,25 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [dart_simple_live (xiaoyaocz)](https://github.com/xiaoyaocz/dart_simple_live) | <a href="https://github.com/xiaoyaocz/dart_simple_live/stargazers"><img src="https://img.shields.io/github/stars/xiaoyaocz/dart_simple_live?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/xiaoyaocz/dart_simple_live/releases"><img src="https://img.shields.io/github/release-date/xiaoyaocz/dart_simple_live?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ✅ TV | ✅ | ❌ | ❌ | ❌ |
 | [HuYaTv](https://github.com/jayjd/HuYaTv) | <a href="https://github.com/jayjd/HuYaTv/stargazers"><img src="https://img.shields.io/github/stars/jayjd/HuYaTv?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/jayjd/HuYaTv/releases"><img src="https://img.shields.io/github/release-date/jayjd/HuYaTv?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ TV | ❌ | ❌ | ❌ | ❌ |
 
-## 💬 Messaging / 即时通讯
+## Messaging
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [HuLa](https://github.com/HuLaSpark/HuLa) | <a href="https://github.com/HuLaSpark/HuLa/stargazers"><img src="https://img.shields.io/github/stars/HuLaSpark/HuLa?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/HuLaSpark/HuLa/releases"><img src="https://img.shields.io/github/release-date/HuLaSpark/HuLa?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 
-## 🐧 QQ
+## QQ
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) | <a href="https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/stargazers"><img src="https://img.shields.io/github/stars/Icalingua-plus-plus/Icalingua-plus-plus?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases"><img src="https://img.shields.io/github/release-date/Icalingua-plus-plus/Icalingua-plus-plus?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## ✈️ Telegram
+## Telegram
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Unigram](https://github.com/UnigramDev/Unigram) | <a href="https://github.com/UnigramDev/Unigram/stargazers"><img src="https://img.shields.io/github/stars/UnigramDev/Unigram?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/UnigramDev/Unigram/releases"><img src="https://img.shields.io/github/release-date/UnigramDev/Unigram?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 📱 Coolapk / 酷安
+## Coolapk
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -109,14 +109,14 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [Coolapk-UWP (Cyenoch)](https://github.com/Cyenoch/Coolapk-UWP) | <a href="https://github.com/Cyenoch/Coolapk-UWP/stargazers"><img src="https://img.shields.io/github/stars/Cyenoch/Coolapk-UWP?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Cyenoch/Coolapk-UWP/releases"><img src="https://img.shields.io/github/release-date/Cyenoch/Coolapk-UWP?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [coolapk-desktop](https://github.com/daimiaopeng/coolapk-desktop) | <a href="https://github.com/daimiaopeng/coolapk-desktop/stargazers"><img src="https://img.shields.io/github/stars/daimiaopeng/coolapk-desktop?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/daimiaopeng/coolapk-desktop/releases"><img src="https://img.shields.io/github/release-date/daimiaopeng/coolapk-desktop?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 
-## 🎤 Kugou Music / 酷狗音乐
+## Kugou Music
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [EchoMusic](https://github.com/hoowhoami/EchoMusic) | <a href="https://github.com/hoowhoami/EchoMusic/stargazers"><img src="https://img.shields.io/github/stars/hoowhoami/EchoMusic?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/hoowhoami/EchoMusic/releases"><img src="https://img.shields.io/github/release-date/hoowhoami/EchoMusic?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic) | <a href="https://github.com/MoeKoeMusic/MoeKoeMusic/stargazers"><img src="https://img.shields.io/github/stars/MoeKoeMusic/MoeKoeMusic?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/MoeKoeMusic/MoeKoeMusic/releases"><img src="https://img.shields.io/github/release-date/MoeKoeMusic/MoeKoeMusic?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 🎵 Music Players / 音乐播放器
+## Music Players
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -133,7 +133,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [SmartisanMusic-Revived](https://github.com/Mangi-11/SmartisanMusic-Revived) | <a href="https://github.com/Mangi-11/SmartisanMusic-Revived/stargazers"><img src="https://img.shields.io/github/stars/Mangi-11/SmartisanMusic-Revived?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Mangi-11/SmartisanMusic-Revived/releases"><img src="https://img.shields.io/github/release-date/Mangi-11/SmartisanMusic-Revived?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | [VutronMusic](https://github.com/stark81/VutronMusic) | <a href="https://github.com/stark81/VutronMusic/stargazers"><img src="https://img.shields.io/github/stars/stark81/VutronMusic?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/stark81/VutronMusic/releases"><img src="https://img.shields.io/github/release-date/stark81/VutronMusic?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 🎶 NetEase Cloud Music / 网易云音乐
+## NetEase Cloud Music
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -144,7 +144,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | <a href="https://github.com/qier222/YesPlayMusic/stargazers"><img src="https://img.shields.io/github/stars/qier222/YesPlayMusic?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/qier222/YesPlayMusic/releases"><img src="https://img.shields.io/github/release-date/qier222/YesPlayMusic?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [YTPlayer](https://github.com/ChenZ2000/YTPlayer) | <a href="https://github.com/ChenZ2000/YTPlayer/stargazers"><img src="https://img.shields.io/github/stars/ChenZ2000/YTPlayer?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/ChenZ2000/YTPlayer/releases"><img src="https://img.shields.io/github/release-date/ChenZ2000/YTPlayer?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 🎧 Spotify
+## Spotify
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -152,13 +152,13 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [SpotX](https://github.com/SpotX-Official/SpotX) | <a href="https://github.com/SpotX-Official/SpotX/stargazers"><img src="https://img.shields.io/github/stars/SpotX-Official/SpotX?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/SpotX-Official/SpotX/releases"><img src="https://img.shields.io/github/release-date/SpotX-Official/SpotX?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [XpoMusic](https://github.com/MahdiGhiasi/XpoMusic) | <a href="https://github.com/MahdiGhiasi/XpoMusic/stargazers"><img src="https://img.shields.io/github/stars/MahdiGhiasi/XpoMusic?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/MahdiGhiasi/XpoMusic/releases"><img src="https://img.shields.io/github/release-date/MahdiGhiasi/XpoMusic?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## ▶️ YouTube Music
+## YouTube Music
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) | <a href="https://github.com/dayanch96/YTMusicUltimate/stargazers"><img src="https://img.shields.io/github/stars/dayanch96/YTMusicUltimate?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/dayanch96/YTMusicUltimate/releases"><img src="https://img.shields.io/github/release-date/dayanch96/YTMusicUltimate?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ❌ | ✅ iPadOS | ❌ | ❌ | ❌ |
 
-## 🎨 Pixiv
+## Pixiv
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -172,13 +172,13 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [PixivBiu](https://github.com/txperl/PixivBiu) | <a href="https://github.com/txperl/PixivBiu/stargazers"><img src="https://img.shields.io/github/stars/txperl/PixivBiu?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/txperl/PixivBiu/releases"><img src="https://img.shields.io/github/release-date/txperl/PixivBiu?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) | <a href="https://github.com/Notsfsssf/pixez-flutter/stargazers"><img src="https://img.shields.io/github/stars/Notsfsssf/pixez-flutter?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Notsfsssf/pixez-flutter/releases"><img src="https://img.shields.io/github/release-date/Notsfsssf/pixez-flutter?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
 
-## 🗨️ Tieba / 贴吧
+## Tieba
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [TiebaLite](https://github.com/HuanCheng65/TiebaLite) | <a href="https://github.com/HuanCheng65/TiebaLite/stargazers"><img src="https://img.shields.io/github/stars/HuanCheng65/TiebaLite?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/HuanCheng65/TiebaLite/releases"><img src="https://img.shields.io/github/release-date/HuanCheng65/TiebaLite?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 
-## 🌐 Network Proxy / 网络代理
+## Network Proxy
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -189,7 +189,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [clashmi](https://github.com/KaringX/clashmi) | <a href="https://github.com/KaringX/clashmi/stargazers"><img src="https://img.shields.io/github/stars/KaringX/clashmi?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/KaringX/clashmi/releases"><img src="https://img.shields.io/github/release-date/KaringX/clashmi?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ✅ | ✅ iPadOS | ❌ | ❌ | ❌ |
 | [Hako-Client](https://github.com/TokenPLS/Hako-Client) | <a href="https://github.com/TokenPLS/Hako-Client/stargazers"><img src="https://img.shields.io/github/stars/TokenPLS/Hako-Client?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/TokenPLS/Hako-Client/releases"><img src="https://img.shields.io/github/release-date/TokenPLS/Hako-Client?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ✅ | ❌ | ❌ | ✅ iPadOS | ❌ | ✅ | ❌ |
 
-## ☁️ Cloud Drive & File Manager / 网盘 / 文件管理
+## Cloud Drive & File Manager
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -199,19 +199,19 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [BaiduPCS-Rust](https://github.com/komorebiCarry/BaiduPCS-Rust) | <a href="https://github.com/komorebiCarry/BaiduPCS-Rust/stargazers"><img src="https://img.shields.io/github/stars/komorebiCarry/BaiduPCS-Rust?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/komorebiCarry/BaiduPCS-Rust/releases"><img src="https://img.shields.io/github/release-date/komorebiCarry/BaiduPCS-Rust?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
 | [Files](https://github.com/files-community/Files) | <a href="https://github.com/files-community/Files/stargazers"><img src="https://img.shields.io/github/stars/files-community/Files?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/files-community/Files/releases"><img src="https://img.shields.io/github/release-date/files-community/Files?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 🖱️ Hardware Peripherals / 硬件外设
+## Hardware Peripherals
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | <a href="https://github.com/AprilNEA/OpenLogi/stargazers"><img src="https://img.shields.io/github/stars/AprilNEA/OpenLogi?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/AprilNEA/OpenLogi/releases"><img src="https://img.shields.io/github/release-date/AprilNEA/OpenLogi?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 🔧 Tubatools / 图吧工具箱
+## Tubatools
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [tubatools](https://github.com/luolangaga/tubatools) | <a href="https://github.com/luolangaga/tubatools/stargazers"><img src="https://img.shields.io/github/stars/luolangaga/tubatools?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/luolangaga/tubatools/releases"><img src="https://img.shields.io/github/release-date/luolangaga/tubatools?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## ⚙️ System Tools / 系统工具
+## System Tools
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -219,32 +219,32 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [MrRSS](https://github.com/DevXDojo/MrRSS) | <a href="https://github.com/DevXDojo/MrRSS/stargazers"><img src="https://img.shields.io/github/stars/DevXDojo/MrRSS?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/DevXDojo/MrRSS/releases"><img src="https://img.shields.io/github/release-date/DevXDojo/MrRSS?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) | <a href="https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/stargazers"><img src="https://img.shields.io/github/stars/AutoDarkMode/Windows-Auto-Night-Mode?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases"><img src="https://img.shields.io/github/release-date/AutoDarkMode/Windows-Auto-Night-Mode?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 🧹 CCleaner
+## CCleaner
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [FluentCleaner](https://github.com/builtbybel/FluentCleaner) | <a href="https://github.com/builtbybel/FluentCleaner/stargazers"><img src="https://img.shields.io/github/stars/builtbybel/FluentCleaner?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/builtbybel/FluentCleaner/releases"><img src="https://img.shields.io/github/release-date/builtbybel/FluentCleaner?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 🔤 Character Map / 字符映射表
+## Character Map
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Character-Map-UWP](https://github.com/character-map-uwp/Character-Map-UWP) | <a href="https://github.com/character-map-uwp/Character-Map-UWP/stargazers"><img src="https://img.shields.io/github/stars/character-map-uwp/Character-Map-UWP?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/character-map-uwp/Character-Map-UWP/releases"><img src="https://img.shields.io/github/release-date/character-map-uwp/Character-Map-UWP?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 📅 Education & Schedule / 教育 / 课程表
+## Education & Schedule
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [ClassIsland](https://github.com/ClassIsland/ClassIsland) | <a href="https://github.com/ClassIsland/ClassIsland/stargazers"><img src="https://img.shields.io/github/stars/ClassIsland/ClassIsland?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/ClassIsland/ClassIsland/releases"><img src="https://img.shields.io/github/release-date/ClassIsland/ClassIsland?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [shiguangschedule](https://github.com/ShiGuangSchedule/shiguangschedule) | <a href="https://github.com/ShiGuangSchedule/shiguangschedule/stargazers"><img src="https://img.shields.io/github/stars/ShiGuangSchedule/shiguangschedule?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/ShiGuangSchedule/shiguangschedule/releases"><img src="https://img.shields.io/github/release-date/ShiGuangSchedule/shiguangschedule?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 
-## 🚀 Launchers / 桌面启动器
+## Launchers
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [smartisan-launcher-maintained](https://github.com/rianlu/smartisan-launcher-maintained) | <a href="https://github.com/rianlu/smartisan-launcher-maintained/stargazers"><img src="https://img.shields.io/github/stars/rianlu/smartisan-launcher-maintained?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/rianlu/smartisan-launcher-maintained/releases"><img src="https://img.shields.io/github/release-date/rianlu/smartisan-launcher-maintained?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 
-## 🧠 Zhihu / 知乎
+## Zhihu
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -253,7 +253,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus) | <a href="https://github.com/zly2006/zhihu-plus-plus/stargazers"><img src="https://img.shields.io/github/stars/zly2006/zhihu-plus-plus?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/zly2006/zhihu-plus-plus/releases"><img src="https://img.shields.io/github/release-date/zly2006/zhihu-plus-plus?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | [zhihu-plus-plus-swift](https://github.com/Amadeus1P048596/zhihu-plus-plus-swift) | <a href="https://github.com/Amadeus1P048596/zhihu-plus-plus-swift/stargazers"><img src="https://img.shields.io/github/stars/Amadeus1P048596/zhihu-plus-plus-swift?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Amadeus1P048596/zhihu-plus-plus-swift/releases"><img src="https://img.shields.io/github/release-date/Amadeus1P048596/zhihu-plus-plus-swift?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ✅ | ❌ | ❌ | ✅ iPadOS | ❌ | ❌ | ❌ |
 
-## 🤝 贡献 / Contributing
+## Contributing
 
 欢迎提交 Pull Request 补充更多优秀的第三方客户端！请遵循以下规范：
 
@@ -269,13 +269,13 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 - 必须是「第三方客户端」类型项目
 - 项目需处于活跃维护状态（近一年内有提交）
 
-## 📄 License
+## License
 
 [![CC0-1.0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 本作品采用 **CC0-1.0** 许可证。在法律允许的范围内，本作品已放弃所有版权及相关权利。你可以自由复制、修改、分发本列表，无需署名。
 
-## ⭐ Star History
+## Star History
 
 <a href="https://www.star-history.com/?repos=third-partyclients%2Fthird-partyclients&type=date&legend=top-left">
  <picture>
