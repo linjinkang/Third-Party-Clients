@@ -10,20 +10,29 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 
 | | | |
 | --- | --- | --- |
-| 🎬 [AcFun](#acfun) | 📺 [Bilibili / 哔哩哔哩](#bilibili--哔哩哔哩) | 📚 [Comics / 漫画](#comics--漫画) |
-| 🔴 [Live Streaming / 直播](#live-streaming--直播) | 💬 [Messaging / 即时通讯](#messaging--即时通讯) | 🐧 [QQ](#qq) |
-| ✈️ [Telegram](#telegram) | 📱 [Coolapk / 酷安](#coolapk--酷安) | 🎵 [Music Players / 音乐播放器](#music-players--音乐播放器) |
-| 🎨 [Pixiv](#pixiv) | 🗨️ [Tieba / 贴吧](#tieba--贴吧) | 🌐 [Network Proxy / 网络代理](#network-proxy--网络代理) |
-| ☁️ [Cloud Drive & File Manager / 网盘 / 文件管理](#cloud-drive--file-manager--网盘--文件管理) | 🖱️ [Hardware Peripherals / 硬件外设](#hardware-peripherals--硬件外设) | 🔧 [Tubatools / 图吧工具箱](#tubatools--图吧工具箱) |
-| ⚙️ [System Tools / 系统工具](#system-tools--系统工具) | 🧹 [CCleaner](#ccleaner) | 🔤 [Character Map / 字符映射表](#character-map--字符映射表) |
-| 📅 [Education & Schedule / 教育 / 课程表](#education--schedule--教育--课程表) | 🚀 [Launchers / 桌面启动器](#launchers--桌面启动器) | 🧠 [Zhihu / 知乎](#zhihu--知乎) |
-| 🤝 [贡献 / Contributing](#贡献--contributing) | 📄 [License](#license) | |
+| 🎬 [AcFun](#acfun) | 🍎 [Apple Music](#apple-music) | 📺 [Bilibili / 哔哩哔哩](#bilibili--哔哩哔哩) |
+| 📚 [Comics / 漫画](#comics--漫画) | 🔴 [Live Streaming / 直播](#live-streaming--直播) | 💬 [Messaging / 即时通讯](#messaging--即时通讯) |
+| 🐧 [QQ](#qq) | ✈️ [Telegram](#telegram) | 📱 [Coolapk / 酷安](#coolapk--酷安) |
+| 🎤 [Kugou Music / 酷狗音乐](#kugou-music--酷狗音乐) | 🎵 [Music Players / 音乐播放器](#music-players--音乐播放器) | 🎶 [NetEase Cloud Music / 网易云音乐](#netease-cloud-music--网易云音乐) |
+| 🎧 [Spotify](#spotify) | ▶️ [YouTube Music](#youtube-music) | 🎨 [Pixiv](#pixiv) |
+| 🗨️ [Tieba / 贴吧](#tieba--贴吧) | 🌐 [Network Proxy / 网络代理](#network-proxy--网络代理) | ☁️ [Cloud Drive & File Manager / 网盘 / 文件管理](#cloud-drive--file-manager--网盘--文件管理) |
+| 🖱️ [Hardware Peripherals / 硬件外设](#hardware-peripherals--硬件外设) | 🔧 [Tubatools / 图吧工具箱](#tubatools--图吧工具箱) | ⚙️ [System Tools / 系统工具](#system-tools--系统工具) |
+| 🧹 [CCleaner](#ccleaner) | 🔤 [Character Map / 字符映射表](#character-map--字符映射表) | 📅 [Education & Schedule / 教育 / 课程表](#education--schedule--教育--课程表) |
+| 🚀 [Launchers / 桌面启动器](#launchers--桌面启动器) | 🧠 [Zhihu / 知乎](#zhihu--知乎) | 🤝 [贡献 / Contributing](#贡献--contributing) |
+| 📄 [License](#license) | | |
 
 ## 🎬 AcFun
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [ACAC](https://github.com/xiaye13579/ACAC) | ![Stars](https://img.shields.io/github/stars/xiaye13579/ACAC) | ❌ | ❌ | ❌ | ✅ TV | ❌ | ❌ | ❌ | ❌ |
+
+## 🍎 Apple Music
+
+| Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra) | ![Stars](https://img.shields.io/github/stars/revblaze/AppleMusicUltra) | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Cider](https://github.com/ciderapp/Cider) | ![Stars](https://img.shields.io/github/stars/ciderapp/Cider) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ## 📺 Bilibili / 哔哩哔哩
 
@@ -100,37 +109,54 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [Coolapk-UWP (Cyenoch)](https://github.com/Cyenoch/Coolapk-UWP) | ![Stars](https://img.shields.io/github/stars/Cyenoch/Coolapk-UWP) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [coolapk-desktop](https://github.com/daimiaopeng/coolapk-desktop) | ![Stars](https://img.shields.io/github/stars/daimiaopeng/coolapk-desktop) | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 
+## 🎤 Kugou Music / 酷狗音乐
+
+| Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [EchoMusic](https://github.com/hoowhoami/EchoMusic) | ![Stars](https://img.shields.io/github/stars/hoowhoami/EchoMusic) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic) | ![Stars](https://img.shields.io/github/stars/MoeKoeMusic/MoeKoeMusic) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
 ## 🎵 Music Players / 音乐播放器
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | ![Stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer) | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
-| [AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra) | ![Stars](https://img.shields.io/github/stars/revblaze/AppleMusicUltra) | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Cider](https://github.com/ciderapp/Cider) | ![Stars](https://img.shields.io/github/stars/ciderapp/Cider) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Cymusic](https://github.com/gyc-12/Cymusic) | ![Stars](https://img.shields.io/github/stars/gyc-12/Cymusic) | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | [DsoMusic](https://github.com/Moriafly/DsoMusic) | ![Stars](https://img.shields.io/github/stars/Moriafly/DsoMusic) | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [EchoMusic](https://github.com/hoowhoami/EchoMusic) | ![Stars](https://img.shields.io/github/stars/hoowhoami/EchoMusic) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [KMusic](https://github.com/Mac-XK/KMusic) | ![Stars](https://img.shields.io/github/stars/Mac-XK/KMusic) | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
 | [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | ![Stars](https://img.shields.io/github/stars/lyswhut/lx-music-desktop) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) | ![Stars](https://img.shields.io/github/stars/lyswhut/lx-music-mobile) | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | [LynMusic](https://github.com/wesley666/LynMusic) | ![Stars](https://img.shields.io/github/stars/wesley666/LynMusic) | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
-| [MeloX](https://github.com/youshen2/MeloX) | ![Stars](https://img.shields.io/github/stars/youshen2/MeloX) | ❌ | ✅ | ❌ | ❌ | ✅ iPadOS | ❌ | ❌ | ✅ watchOS |
 | [Mineradio-paused](https://github.com/XxHuberrr/Mineradio-paused) | ![Stars](https://img.shields.io/github/stars/XxHuberrr/Mineradio-paused) | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic) | ![Stars](https://img.shields.io/github/stars/MoeKoeMusic/MoeKoeMusic) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [museeks](https://github.com/martpie/museeks) | ![Stars](https://img.shields.io/github/stars/martpie/museeks) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [NetEase-Cloud-Music-UWP-Repack](https://github.com/JasonWei512/NetEase-Cloud-Music-UWP-Repack) | ![Stars](https://img.shields.io/github/stars/JasonWei512/NetEase-Cloud-Music-UWP-Repack) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [NeteaseCloudMusic (Flutter)](https://github.com/fluttercandies/NeteaseCloudMusic) | ![Stars](https://img.shields.io/github/stars/fluttercandies/NeteaseCloudMusic) | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | [SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) | ![Stars](https://img.shields.io/github/stars/Moriafly/SaltPlayerSource) | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | [SmartisanMusic-Revived](https://github.com/Mangi-11/SmartisanMusic-Revived) | ![Stars](https://img.shields.io/github/stars/Mangi-11/SmartisanMusic-Revived) | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| [VutronMusic](https://github.com/stark81/VutronMusic) | ![Stars](https://img.shields.io/github/stars/stark81/VutronMusic) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+## 🎶 NetEase Cloud Music / 网易云音乐
+
+| Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [MeloX](https://github.com/youshen2/MeloX) | ![Stars](https://img.shields.io/github/stars/youshen2/MeloX) | ❌ | ✅ | ❌ | ❌ | ✅ iPadOS | ❌ | ❌ | ✅ watchOS |
+| [NetEase-Cloud-Music-UWP-Repack](https://github.com/JasonWei512/NetEase-Cloud-Music-UWP-Repack) | ![Stars](https://img.shields.io/github/stars/JasonWei512/NetEase-Cloud-Music-UWP-Repack) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [SPlayer](https://github.com/SPlayer-Dev/SPlayer) | ![Stars](https://img.shields.io/github/stars/SPlayer-Dev/SPlayer) | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
 | [SPlayer-Next](https://github.com/SPlayer-Dev/SPlayer-Next) | ![Stars](https://img.shields.io/github/stars/SPlayer-Dev/SPlayer-Next) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | ![Stars](https://img.shields.io/github/stars/qier222/YesPlayMusic) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [YTPlayer](https://github.com/ChenZ2000/YTPlayer) | ![Stars](https://img.shields.io/github/stars/ChenZ2000/YTPlayer) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+## 🎧 Spotify
+
+| Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [spicetify-cli](https://github.com/spicetify/cli) | ![Stars](https://img.shields.io/github/stars/spicetify/cli) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [SpotX](https://github.com/SpotX-Official/SpotX) | ![Stars](https://img.shields.io/github/stars/SpotX-Official/SpotX) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [VutronMusic](https://github.com/stark81/VutronMusic) | ![Stars](https://img.shields.io/github/stars/stark81/VutronMusic) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [XpoMusic](https://github.com/MahdiGhiasi/XpoMusic) | ![Stars](https://img.shields.io/github/stars/MahdiGhiasi/XpoMusic) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | ![Stars](https://img.shields.io/github/stars/qier222/YesPlayMusic) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+## ▶️ YouTube Music
+
+| Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) | ![Stars](https://img.shields.io/github/stars/dayanch96/YTMusicUltimate) | ❌ | ❌ | ❌ | ❌ | ✅ iPadOS | ❌ | ❌ | ❌ |
-| [YTPlayer](https://github.com/ChenZ2000/YTPlayer) | ![Stars](https://img.shields.io/github/stars/ChenZ2000/YTPlayer) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ## 🎨 Pixiv
 
