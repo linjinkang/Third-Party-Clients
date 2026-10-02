@@ -1,19 +1,20 @@
-# Third-Party Clients
+<div align="center">
 
-<a href="https://awesome.re"><img src="https://img.shields.io/badge/Awesome-yes-ff69b4?style=flat-square&logo=awesomelists&logoColor=white" alt="Awesome"></a>
-<a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0%201.0-lightgrey?style=flat-square&logo=creativecommons&logoColor=white" alt="License: CC0-1.0"></a>
-<a href="https://github.com/third-partyclients/third-partyclients/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square&logo=github&logoColor=white" alt="PRs Welcome"></a>
+<h1>Third-Party Clients</h1>
 
-A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各种第三方客户端
+<p>A curated list of awesome third-party clients on GitHub
 
-## 目录 / Table of Contents
+收集 GitHub 上各种第三方客户端</p>
 
-| | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- |
-| [<img src="https://img.shields.io/badge/-AcFun-FD4C59?logo=acfun&logoColor=white&style=flat-square" alt="AcFun">](#acfun) | [<img src="https://img.shields.io/badge/-Apple_Music-fc3c44?logo=applemusic&logoColor=white&style=flat-square" alt="Apple Music">](#Apple-Music) | [<img src="https://img.shields.io/badge/-哔哩哔哩-00A1D6?logo=bilibili&logoColor=white&style=flat-square" alt="哔哩哔哩">](#哔哩哔哩) | [漫画](#漫画) | [直播](#直播) | [Messaging](#messaging) | [<img src="https://img.shields.io/badge/-QQ-12B7F5?logo=qq&logoColor=white&style=flat-square" alt="QQ">](#qq) |
-| [<img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square" alt="Telegram">](#telegram) | [<img src="https://img.shields.io/badge/-酷安-11AB60?logo=coolapk&logoColor=white&style=flat-square" alt="酷安">](#酷安) | [<img src="https://img.shields.io/badge/-酷狗音乐-2CA2F9?logo=kugou&logoColor=white&style=flat-square" alt="酷狗音乐">](#酷狗音乐) | [音乐播放器](#音乐播放器) | [<img src="https://img.shields.io/badge/-网易云音乐-D43C33?logo=neteasecloudmusic&logoColor=white&style=flat-square" alt="网易云音乐">](#网易云音乐) | [<img src="https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white&style=flat-square" alt="Spotify">](#Spotify) | [<img src="https://img.shields.io/badge/-YouTube_Music-FF0000?logo=youtubemusic&logoColor=white&style=flat-square" alt="YouTube Music">](#youtube-music) |
-| [<img src="https://img.shields.io/badge/-Pixiv-0096FA?logo=pixiv&logoColor=white&style=flat-square" alt="Pixiv">](#Pixiv) | [<img src="https://img.shields.io/badge/-百度贴吧-4E6EF2?logo=baidu&logoColor=white&style=flat-square" alt="百度贴吧">](#百度贴吧) | [网络代理](#网络代理) | [<img src="https://img.shields.io/badge/-云盘-4285F4?logo=googledrive&logoColor=white&style=flat-square" alt="云盘">](#云盘) | [硬件外设](#硬件外设) | [图吧工具箱](#图吧工具箱) | [Tools](#tools) |
-| [<img src="https://img.shields.io/badge/-CCleaner-D9322A?logo=ccleaner&logoColor=white&style=flat-square" alt="CCleaner">](#ccleaner) | [字符映射表](#字符映射表) | [Schedule](#schedule) | [Launchers](#launchers) | [<img src="https://img.shields.io/badge/-知乎-0084FF?logo=zhihu&logoColor=white&style=flat-square" alt="知乎">](#知乎) | [<img src="https://img.shields.io/badge/-Contributing-3B82F6?logo=handshake&logoColor=white&style=flat-square" alt="Contributing">](#contributing) | [<img src="https://img.shields.io/badge/-License-EF9421?logo=creativecommons&logoColor=white&style=flat-square" alt="License">](#license) |
+<h2>目录 / Contents</h2>
+
+</div>
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/-AcFun-FD4C59?logo=anichart&logoColor=white&style=flat-square" alt="AcFun">](#acfun) [<img src="https://img.shields.io/badge/-Apple_Music-fc3c44?logo=applemusic&logoColor=white&style=flat-square" alt="Apple Music">](#Apple-Music) [<img src="https://img.shields.io/badge/-哔哩哔哩-00A1D6?logo=bilibili&logoColor=white&style=flat-square" alt="哔哩哔哩">](#哔哩哔哩) [<img src="https://img.shields.io/badge/-漫画-FF6B6B?logo=hatenabookmark&logoColor=white&style=flat-square" alt="漫画">](#漫画) [<img src="https://img.shields.io/badge/-直播-FF4500?logo=twitch&logoColor=white&style=flat-square" alt="直播">](#直播) [<img src="https://img.shields.io/badge/-Messaging-0088CC?logo=messenger&logoColor=white&style=flat-square" alt="Messaging">](#messaging) [<img src="https://img.shields.io/badge/-QQ-12B7F5?logo=qq&logoColor=white&style=flat-square" alt="QQ">](#qq) [<img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square" alt="Telegram">](#telegram) [<img src="https://img.shields.io/badge/-酷安-11AB60?logo=pkgsrc&logoColor=white&style=flat-square" alt="酷安">](#酷安) [<img src="https://img.shields.io/badge/-酷狗音乐-2CA2F9?logo=known&logoColor=white&style=flat-square" alt="酷狗音乐">](#酷狗音乐) [<img src="https://img.shields.io/badge/-音乐播放器-1E90FF?logo=musicbrainz&logoColor=white&style=flat-square" alt="音乐播放器">](#音乐播放器) [<img src="https://img.shields.io/badge/-网易云音乐-D43C33?logo=neteasecloudmusic&logoColor=white&style=flat-square" alt="网易云音乐">](#网易云音乐) [<img src="https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white&style=flat-square" alt="Spotify">](#Spotify) [<img src="https://img.shields.io/badge/-YouTube_Music-FF0000?logo=youtubemusic&logoColor=white&style=flat-square" alt="YouTube Music">](#youtube-music) [<img src="https://img.shields.io/badge/-Pixiv-0096FA?logo=pixiv&logoColor=white&style=flat-square" alt="Pixiv">](#Pixiv) [<img src="https://img.shields.io/badge/-百度贴吧-4E6EF2?logo=baidu&logoColor=white&style=flat-square" alt="百度贴吧">](#百度贴吧) [<img src="https://img.shields.io/badge/-网络代理-009688?logo=rocket&logoColor=white&style=flat-square" alt="网络代理">](#网络代理) [<img src="https://img.shields.io/badge/-云盘-4285F4?logo=googledrive&logoColor=white&style=flat-square" alt="云盘">](#云盘) [<img src="https://img.shields.io/badge/-硬件外设-007A01?logo=razer&logoColor=white&style=flat-square" alt="硬件外设">](#硬件外设) [<img src="https://img.shields.io/badge/-图吧工具箱-F57C00?logo=setuptools&logoColor=white&style=flat-square" alt="图吧工具箱">](#图吧工具箱) [<img src="https://img.shields.io/badge/-其他工具-455A64?logo=actix&logoColor=white&style=flat-square" alt="其他工具">](#其他工具) [<img src="https://img.shields.io/badge/-CCleaner-D9322A?logo=ccleaner&logoColor=white&style=flat-square" alt="CCleaner">](#ccleaner) [<img src="https://img.shields.io/badge/-字符映射表-795548?logo=monkeytype&logoColor=white&style=flat-square" alt="字符映射表">](#字符映射表) [<img src="https://img.shields.io/badge/-Schedule-3F51B5?logo=googlecalendar&logoColor=white&style=flat-square" alt="Schedule">](#schedule) [<img src="https://img.shields.io/badge/-Launchers-E91E63?logo=glance&logoColor=white&style=flat-square" alt="Launchers">](#launchers) [<img src="https://img.shields.io/badge/-知乎-0084FF?logo=zhihu&logoColor=white&style=flat-square" alt="知乎">](#知乎) [<img src="https://img.shields.io/badge/-Contributing-3B82F6?logo=handshake&logoColor=white&style=flat-square" alt="Contributing">](#contributing) [<img src="https://img.shields.io/badge/-License-EF9421?logo=creativecommons&logoColor=white&style=flat-square" alt="License">](#license)
+
+</div>
 
 ## AcFun
 
@@ -193,7 +194,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [BaiduPCS-Rust](https://github.com/komorebiCarry/BaiduPCS-Rust) | <a href="https://github.com/komorebiCarry/BaiduPCS-Rust/stargazers"><img src="https://img.shields.io/github/stars/komorebiCarry/BaiduPCS-Rust?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/komorebiCarry/BaiduPCS-Rust/releases"><img src="https://img.shields.io/github/release-date/komorebiCarry/BaiduPCS-Rust?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
 | [Files](https://github.com/files-community/Files) | <a href="https://github.com/files-community/Files/stargazers"><img src="https://img.shields.io/github/stars/files-community/Files?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/files-community/Files/releases"><img src="https://img.shields.io/github/release-date/files-community/Files?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## Hardware Peripherals
+## 硬件外设
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -205,7 +206,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [tubatools](https://github.com/luolangaga/tubatools) | <a href="https://github.com/luolangaga/tubatools/stargazers"><img src="https://img.shields.io/github/stars/luolangaga/tubatools?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/luolangaga/tubatools/releases"><img src="https://img.shields.io/github/release-date/luolangaga/tubatools?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## System Tools
+## 其他工具
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -225,7 +226,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Character-Map-UWP](https://github.com/character-map-uwp/Character-Map-UWP) | <a href="https://github.com/character-map-uwp/Character-Map-UWP/stargazers"><img src="https://img.shields.io/github/stars/character-map-uwp/Character-Map-UWP?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/character-map-uwp/Character-Map-UWP/releases"><img src="https://img.shields.io/github/release-date/character-map-uwp/Character-Map-UWP?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## Education & Schedule
+## 课程表
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
