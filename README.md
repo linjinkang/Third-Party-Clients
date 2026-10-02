@@ -27,7 +27,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [ACAC](https://github.com/xiaye13579/ACAC) | <a href="https://github.com/xiaye13579/ACAC/stargazers"><img src="https://img.shields.io/github/stars/xiaye13579/ACAC?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/xiaye13579/ACAC/releases"><img src="https://img.shields.io/github/release-date/xiaye13579/ACAC?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ TV | ❌ | ❌ | ❌ | ❌ |
 
-## 🍎 Apple Music
+## Apple Music
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
