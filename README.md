@@ -4,31 +4,31 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/third-partyclients/third-partyclients/pulls)
 
-收集 GitHub 上各种优秀的第三方客户端 | A curated list of awesome third-party clients on GitHub
+A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各种第三方客户端
 
 ## 目录 / Table of Contents
 
 - [AcFun](#acfun)
-- [哔哩哔哩 / Bilibili](#哔哩哔哩--bilibili)
-- [漫画 / Comics](#漫画--comics)
-- [直播 / Live Streaming](#直播--live-streaming)
-- [即时通讯 / Messaging](#即时通讯--messaging)
+- [Bilibili / 哔哩哔哩](#bilibili--哔哩哔哩)
+- [Comics / 漫画](#comics--漫画)
+- [Live Streaming / 直播](#live-streaming--直播)
+- [Messaging / 即时通讯](#messaging--即时通讯)
 - [QQ](#qq)
 - [Telegram](#telegram)
-- [酷安 / Coolapk](#酷安--coolapk)
-- [音乐播放器 / Music Players](#音乐播放器--music-players)
+- [Coolapk / 酷安](#coolapk--酷安)
+- [Music Players / 音乐播放器](#music-players--音乐播放器)
 - [Pixiv](#pixiv)
-- [贴吧 / Tieba](#贴吧--tieba)
-- [网络代理 / Network Proxy](#网络代理--network-proxy)
-- [网盘 / 文件管理 / Cloud Drive & File Manager](#网盘--文件管理--cloud-drive--file-manager)
-- [硬件外设 / Hardware Peripherals](#硬件外设--hardware-peripherals)
-- [图吧工具箱 / Tubatools](#图吧工具箱--tubatools)
-- [系统工具 / System Tools](#系统工具--system-tools)
+- [Tieba / 贴吧](#tieba--贴吧)
+- [Network Proxy / 网络代理](#network-proxy--网络代理)
+- [Cloud Drive & File Manager / 网盘 / 文件管理](#cloud-drive--file-manager--网盘--文件管理)
+- [Hardware Peripherals / 硬件外设](#hardware-peripherals--硬件外设)
+- [Tubatools / 图吧工具箱](#tubatools--图吧工具箱)
+- [System Tools / 系统工具](#system-tools--系统工具)
 - [CCleaner](#ccleaner)
-- [字符映射表 / Character Map](#字符映射表--character-map)
-- [教育 / 课程表 / Education & Schedule](#教育--课程表--education--schedule)
-- [桌面启动器 / Launchers](#桌面启动器--launchers)
-- [知乎 / Zhihu](#知乎--zhihu)
+- [Character Map / 字符映射表](#character-map--字符映射表)
+- [Education & Schedule / 教育 / 课程表](#education--schedule--教育--课程表)
+- [Launchers / 桌面启动器](#launchers--桌面启动器)
+- [Zhihu / 知乎](#zhihu--知乎)
 - [贡献 / Contributing](#贡献--contributing)
 - [License](#license)
 
@@ -38,7 +38,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [ACAC](https://github.com/xiaye13579/ACAC) | ![Stars](https://img.shields.io/github/stars/xiaye13579/ACAC) | ❌ | ❌ | ❌ | ✅ TV | ❌ | ❌ | ❌ | ❌ |
 
-## 哔哩哔哩 / Bilibili
+## Bilibili / 哔哩哔哩
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -69,7 +69,7 @@
 | [pilipro](https://github.com/naaammme/pilipro) | ![Stars](https://img.shields.io/github/stars/naaammme/pilipro) | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | [wiliwili](https://github.com/xfangfang/wiliwili) | ![Stars](https://img.shields.io/github/stars/xfangfang/wiliwili) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ Nintendo Switch |
 
-## 漫画 / Comics
+## Comics / 漫画
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -78,7 +78,7 @@
 | [haka_comic](https://github.com/raoxwup/haka_comic) | ![Stars](https://img.shields.io/github/stars/raoxwup/haka_comic) | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | [WaifuX](https://github.com/jipika/WaifuX) | ![Stars](https://img.shields.io/github/stars/jipika/WaifuX) | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 直播 / Live Streaming
+## Live Streaming / 直播
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -86,7 +86,7 @@
 | [dart_simple_live (xiaoyaocz)](https://github.com/xiaoyaocz/dart_simple_live) | ![Stars](https://img.shields.io/github/stars/xiaoyaocz/dart_simple_live) | ✅ | ✅ | ✅ | ✅ TV | ✅ | ❌ | ❌ | ❌ |
 | [HuYaTv](https://github.com/jayjd/HuYaTv) | ![Stars](https://img.shields.io/github/stars/jayjd/HuYaTv) | ❌ | ❌ | ❌ | ✅ TV | ❌ | ❌ | ❌ | ❌ |
 
-## 即时通讯 / Messaging
+## Messaging / 即时通讯
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -104,7 +104,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Unigram](https://github.com/UnigramDev/Unigram) | ![Stars](https://img.shields.io/github/stars/UnigramDev/Unigram) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 酷安 / Coolapk
+## Coolapk / 酷安
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -113,7 +113,7 @@
 | [Coolapk-UWP (Cyenoch)](https://github.com/Cyenoch/Coolapk-UWP) | ![Stars](https://img.shields.io/github/stars/Cyenoch/Coolapk-UWP) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [coolapk-desktop](https://github.com/daimiaopeng/coolapk-desktop) | ![Stars](https://img.shields.io/github/stars/daimiaopeng/coolapk-desktop) | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 
-## 音乐播放器 / Music Players
+## Music Players / 音乐播放器
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -159,13 +159,13 @@
 | [PixivBiu](https://github.com/txperl/PixivBiu) | ![Stars](https://img.shields.io/github/stars/txperl/PixivBiu) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) | ![Stars](https://img.shields.io/github/stars/Notsfsssf/pixez-flutter) | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
 
-## 贴吧 / Tieba
+## Tieba / 贴吧
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [TiebaLite](https://github.com/HuanCheng65/TiebaLite) | ![Stars](https://img.shields.io/github/stars/HuanCheng65/TiebaLite) | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 
-## 网络代理 / Network Proxy
+## Network Proxy / 网络代理
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -176,7 +176,7 @@
 | [clashmi](https://github.com/KaringX/clashmi) | ![Stars](https://img.shields.io/github/stars/KaringX/clashmi) | ✅ | ✅ | ✅ | ✅ | ✅ iPadOS | ❌ | ❌ | ❌ |
 | [Hako-Client](https://github.com/TokenPLS/Hako-Client) | ![Stars](https://img.shields.io/github/stars/TokenPLS/Hako-Client) | ❌ | ✅ | ❌ | ❌ | ✅ iPadOS | ❌ | ✅ | ❌ |
 
-## 网盘 / 文件管理 / Cloud Drive & File Manager
+## Cloud Drive & File Manager / 网盘 / 文件管理
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -186,19 +186,19 @@
 | [BaiduPCS-Rust](https://github.com/komorebiCarry/BaiduPCS-Rust) | ![Stars](https://img.shields.io/github/stars/komorebiCarry/BaiduPCS-Rust) | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
 | [Files](https://github.com/files-community/Files) | ![Stars](https://img.shields.io/github/stars/files-community/Files) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 硬件外设 / Hardware Peripherals
+## Hardware Peripherals / 硬件外设
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | ![Stars](https://img.shields.io/github/stars/AprilNEA/OpenLogi) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 图吧工具箱 / Tubatools
+## Tubatools / 图吧工具箱
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [tubatools](https://github.com/luolangaga/tubatools) | ![Stars](https://img.shields.io/github/stars/luolangaga/tubatools) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 系统工具 / System Tools
+## System Tools / 系统工具
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -212,25 +212,25 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [FluentCleaner](https://github.com/builtbybel/FluentCleaner) | ![Stars](https://img.shields.io/github/stars/builtbybel/FluentCleaner) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 字符映射表 / Character Map
+## Character Map / 字符映射表
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Character-Map-UWP](https://github.com/character-map-uwp/Character-Map-UWP) | ![Stars](https://img.shields.io/github/stars/character-map-uwp/Character-Map-UWP) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## 教育 / 课程表 / Education & Schedule
+## Education & Schedule / 教育 / 课程表
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [shiguangschedule](https://github.com/ShiGuangSchedule/shiguangschedule) | ![Stars](https://img.shields.io/github/stars/ShiGuangSchedule/shiguangschedule) | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 
-## 桌面启动器 / Launchers
+## Launchers / 桌面启动器
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [smartisan-launcher-maintained](https://github.com/rianlu/smartisan-launcher-maintained) | ![Stars](https://img.shields.io/github/stars/rianlu/smartisan-launcher-maintained) | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 
-## 知乎 / Zhihu
+## Zhihu / 知乎
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
