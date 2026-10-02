@@ -10,7 +10,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 
 | | | |
 | --- | --- | --- |
-| 🎬 [AcFun](#acfun) | 🍎 [Apple Music](#apple-music) | 📺 [Bilibili / 哔哩哔哩](#bilibili--哔哩哔哩) |
+| 🎬 [AcFun](#acfun) | [<img src="https://img.shields.io/badge/-Apple_Music-fc3c44?logo=applemusic&logoColor=white&style=flat-square" alt="Apple Music">](#apple-music) | 📺 [Bilibili / 哔哩哔哩](#bilibili--哔哩哔哩) |
 | 📚 [Comics / 漫画](#comics--漫画) | 🔴 [Live Streaming / 直播](#live-streaming--直播) | 💬 [Messaging / 即时通讯](#messaging--即时通讯) |
 | 🐧 [QQ](#qq) | ✈️ [Telegram](#telegram) | 📱 [Coolapk / 酷安](#coolapk--酷安) |
 | 🎤 [Kugou Music / 酷狗音乐](#kugou-music--酷狗音乐) | 🎵 [Music Players / 音乐播放器](#music-players--音乐播放器) | 🎶 [NetEase Cloud Music / 网易云音乐](#netease-cloud-music--网易云音乐) |
