@@ -8,37 +8,24 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 
 ## 目录 / Table of Contents
 
-- [AcFun](#acfun)
-- [Bilibili / 哔哩哔哩](#bilibili--哔哩哔哩)
-- [Comics / 漫画](#comics--漫画)
-- [Live Streaming / 直播](#live-streaming--直播)
-- [Messaging / 即时通讯](#messaging--即时通讯)
-- [QQ](#qq)
-- [Telegram](#telegram)
-- [Coolapk / 酷安](#coolapk--酷安)
-- [Music Players / 音乐播放器](#music-players--音乐播放器)
-- [Pixiv](#pixiv)
-- [Tieba / 贴吧](#tieba--贴吧)
-- [Network Proxy / 网络代理](#network-proxy--网络代理)
-- [Cloud Drive & File Manager / 网盘 / 文件管理](#cloud-drive--file-manager--网盘--文件管理)
-- [Hardware Peripherals / 硬件外设](#hardware-peripherals--硬件外设)
-- [Tubatools / 图吧工具箱](#tubatools--图吧工具箱)
-- [System Tools / 系统工具](#system-tools--系统工具)
-- [CCleaner](#ccleaner)
-- [Character Map / 字符映射表](#character-map--字符映射表)
-- [Education & Schedule / 教育 / 课程表](#education--schedule--教育--课程表)
-- [Launchers / 桌面启动器](#launchers--桌面启动器)
-- [Zhihu / 知乎](#zhihu--知乎)
-- [贡献 / Contributing](#贡献--contributing)
-- [License](#license)
+| | | |
+| --- | --- | --- |
+| 🎬 [AcFun](#acfun) | 📺 [Bilibili / 哔哩哔哩](#bilibili--哔哩哔哩) | 📚 [Comics / 漫画](#comics--漫画) |
+| 🔴 [Live Streaming / 直播](#live-streaming--直播) | 💬 [Messaging / 即时通讯](#messaging--即时通讯) | 🐧 [QQ](#qq) |
+| ✈️ [Telegram](#telegram) | 📱 [Coolapk / 酷安](#coolapk--酷安) | 🎵 [Music Players / 音乐播放器](#music-players--音乐播放器) |
+| 🎨 [Pixiv](#pixiv) | 🗨️ [Tieba / 贴吧](#tieba--贴吧) | 🌐 [Network Proxy / 网络代理](#network-proxy--网络代理) |
+| ☁️ [Cloud Drive & File Manager / 网盘 / 文件管理](#cloud-drive--file-manager--网盘--文件管理) | 🖱️ [Hardware Peripherals / 硬件外设](#hardware-peripherals--硬件外设) | 🔧 [Tubatools / 图吧工具箱](#tubatools--图吧工具箱) |
+| ⚙️ [System Tools / 系统工具](#system-tools--系统工具) | 🧹 [CCleaner](#ccleaner) | 🔤 [Character Map / 字符映射表](#character-map--字符映射表) |
+| 📅 [Education & Schedule / 教育 / 课程表](#education--schedule--教育--课程表) | 🚀 [Launchers / 桌面启动器](#launchers--桌面启动器) | 🧠 [Zhihu / 知乎](#zhihu--知乎) |
+| 🤝 [贡献 / Contributing](#贡献--contributing) | 📄 [License](#license) | |
 
-## AcFun
+## 🎬 AcFun
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [ACAC](https://github.com/xiaye13579/ACAC) | ![Stars](https://img.shields.io/github/stars/xiaye13579/ACAC) | ❌ | ❌ | ❌ | ✅ TV | ❌ | ❌ | ❌ | ❌ |
 
-## Bilibili / 哔哩哔哩
+## 📺 Bilibili / 哔哩哔哩
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -69,7 +56,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [pilipro](https://github.com/naaammme/pilipro) | ![Stars](https://img.shields.io/github/stars/naaammme/pilipro) | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | [wiliwili](https://github.com/xfangfang/wiliwili) | ![Stars](https://img.shields.io/github/stars/xfangfang/wiliwili) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ Nintendo Switch |
 
-## Comics / 漫画
+## 📚 Comics / 漫画
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -78,7 +65,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [haka_comic](https://github.com/raoxwup/haka_comic) | ![Stars](https://img.shields.io/github/stars/raoxwup/haka_comic) | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | [WaifuX](https://github.com/jipika/WaifuX) | ![Stars](https://img.shields.io/github/stars/jipika/WaifuX) | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## Live Streaming / 直播
+## 🔴 Live Streaming / 直播
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -86,25 +73,25 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [dart_simple_live (xiaoyaocz)](https://github.com/xiaoyaocz/dart_simple_live) | ![Stars](https://img.shields.io/github/stars/xiaoyaocz/dart_simple_live) | ✅ | ✅ | ✅ | ✅ TV | ✅ | ❌ | ❌ | ❌ |
 | [HuYaTv](https://github.com/jayjd/HuYaTv) | ![Stars](https://img.shields.io/github/stars/jayjd/HuYaTv) | ❌ | ❌ | ❌ | ✅ TV | ❌ | ❌ | ❌ | ❌ |
 
-## Messaging / 即时通讯
+## 💬 Messaging / 即时通讯
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [HuLa](https://github.com/HuLaSpark/HuLa) | ![Stars](https://img.shields.io/github/stars/HuLaSpark/HuLa) | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 
-## QQ
+## 🐧 QQ
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) | ![Stars](https://img.shields.io/github/stars/Icalingua-plus-plus/Icalingua-plus-plus) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## Telegram
+## ✈️ Telegram
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Unigram](https://github.com/UnigramDev/Unigram) | ![Stars](https://img.shields.io/github/stars/UnigramDev/Unigram) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## Coolapk / 酷安
+## 📱 Coolapk / 酷安
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -113,7 +100,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [Coolapk-UWP (Cyenoch)](https://github.com/Cyenoch/Coolapk-UWP) | ![Stars](https://img.shields.io/github/stars/Cyenoch/Coolapk-UWP) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [coolapk-desktop](https://github.com/daimiaopeng/coolapk-desktop) | ![Stars](https://img.shields.io/github/stars/daimiaopeng/coolapk-desktop) | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 
-## Music Players / 音乐播放器
+## 🎵 Music Players / 音乐播放器
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -145,7 +132,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) | ![Stars](https://img.shields.io/github/stars/dayanch96/YTMusicUltimate) | ❌ | ❌ | ❌ | ❌ | ✅ iPadOS | ❌ | ❌ | ❌ |
 | [YTPlayer](https://github.com/ChenZ2000/YTPlayer) | ![Stars](https://img.shields.io/github/stars/ChenZ2000/YTPlayer) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## Pixiv
+## 🎨 Pixiv
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -159,13 +146,13 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [PixivBiu](https://github.com/txperl/PixivBiu) | ![Stars](https://img.shields.io/github/stars/txperl/PixivBiu) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) | ![Stars](https://img.shields.io/github/stars/Notsfsssf/pixez-flutter) | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
 
-## Tieba / 贴吧
+## 🗨️ Tieba / 贴吧
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [TiebaLite](https://github.com/HuanCheng65/TiebaLite) | ![Stars](https://img.shields.io/github/stars/HuanCheng65/TiebaLite) | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 
-## Network Proxy / 网络代理
+## 🌐 Network Proxy / 网络代理
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -176,7 +163,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [clashmi](https://github.com/KaringX/clashmi) | ![Stars](https://img.shields.io/github/stars/KaringX/clashmi) | ✅ | ✅ | ✅ | ✅ | ✅ iPadOS | ❌ | ❌ | ❌ |
 | [Hako-Client](https://github.com/TokenPLS/Hako-Client) | ![Stars](https://img.shields.io/github/stars/TokenPLS/Hako-Client) | ❌ | ✅ | ❌ | ❌ | ✅ iPadOS | ❌ | ✅ | ❌ |
 
-## Cloud Drive & File Manager / 网盘 / 文件管理
+## ☁️ Cloud Drive & File Manager / 网盘 / 文件管理
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -186,19 +173,19 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [BaiduPCS-Rust](https://github.com/komorebiCarry/BaiduPCS-Rust) | ![Stars](https://img.shields.io/github/stars/komorebiCarry/BaiduPCS-Rust) | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
 | [Files](https://github.com/files-community/Files) | ![Stars](https://img.shields.io/github/stars/files-community/Files) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## Hardware Peripherals / 硬件外设
+## 🖱️ Hardware Peripherals / 硬件外设
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | ![Stars](https://img.shields.io/github/stars/AprilNEA/OpenLogi) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## Tubatools / 图吧工具箱
+## 🔧 Tubatools / 图吧工具箱
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [tubatools](https://github.com/luolangaga/tubatools) | ![Stars](https://img.shields.io/github/stars/luolangaga/tubatools) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## System Tools / 系统工具
+## ⚙️ System Tools / 系统工具
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -206,31 +193,32 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [MrRSS](https://github.com/DevXDojo/MrRSS) | ![Stars](https://img.shields.io/github/stars/DevXDojo/MrRSS) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) | ![Stars](https://img.shields.io/github/stars/AutoDarkMode/Windows-Auto-Night-Mode) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## CCleaner
+## 🧹 CCleaner
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [FluentCleaner](https://github.com/builtbybel/FluentCleaner) | ![Stars](https://img.shields.io/github/stars/builtbybel/FluentCleaner) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## Character Map / 字符映射表
+## 🔤 Character Map / 字符映射表
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Character-Map-UWP](https://github.com/character-map-uwp/Character-Map-UWP) | ![Stars](https://img.shields.io/github/stars/character-map-uwp/Character-Map-UWP) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## Education & Schedule / 教育 / 课程表
+## 📅 Education & Schedule / 教育 / 课程表
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [ClassIsland](https://github.com/ClassIsland/ClassIsland) | ![Stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [shiguangschedule](https://github.com/ShiGuangSchedule/shiguangschedule) | ![Stars](https://img.shields.io/github/stars/ShiGuangSchedule/shiguangschedule) | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 
-## Launchers / 桌面启动器
+## 🚀 Launchers / 桌面启动器
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [smartisan-launcher-maintained](https://github.com/rianlu/smartisan-launcher-maintained) | ![Stars](https://img.shields.io/github/stars/rianlu/smartisan-launcher-maintained) | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 
-## Zhihu / 知乎
+## 🧠 Zhihu / 知乎
 
 | Project Name | Stars | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -239,7 +227,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus) | ![Stars](https://img.shields.io/github/stars/zly2006/zhihu-plus-plus) | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | [zhihu-plus-plus-swift](https://github.com/Amadeus1P048596/zhihu-plus-plus-swift) | ![Stars](https://img.shields.io/github/stars/Amadeus1P048596/zhihu-plus-plus-swift) | ❌ | ✅ | ❌ | ❌ | ✅ iPadOS | ❌ | ❌ | ❌ |
 
-## 贡献 / Contributing
+## 🤝 贡献 / Contributing
 
 欢迎提交 Pull Request 补充更多优秀的第三方客户端！请遵循以下规范：
 
@@ -254,13 +242,13 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 - 必须是「第三方客户端」类型项目
 - 项目需处于活跃维护状态（近一年内有提交）
 
-## License
+## 📄 License
 
 [![CC0-1.0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 本作品采用 **CC0-1.0** 许可证。在法律允许的范围内，本作品已放弃所有版权及相关权利。你可以自由复制、修改、分发本列表，无需署名。
 
-## Star History
+## ⭐ Star History
 
 <a href="https://www.star-history.com/?repos=third-partyclients%2Fthird-partyclients&type=date&legend=top-left">
  <picture>
