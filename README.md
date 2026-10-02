@@ -256,9 +256,9 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0-1.0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内，本作品已放弃所有版权及相关权利。你可以自由复制、修改、分发本列表，无需署名。
+本作品采用 **CC0-1.0** 许可证。在法律允许的范围内，本作品已放弃所有版权及相关权利。你可以自由复制、修改、分发本列表，无需署名。
 
 ## Star History
 
