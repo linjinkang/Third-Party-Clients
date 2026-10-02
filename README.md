@@ -10,10 +10,10 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 
 | | | |
 | --- | --- | --- |
-| 🎬 [AcFun](#acfun) | [<img src="https://img.shields.io/badge/-Apple_Music-fc3c44?logo=applemusic&logoColor=white&style=flat-square" alt="Apple Music">](#Apple-Music) | [<img src="https://img.shields.io/badge/-Bilibili-00A1D6?logo=bilibili&logoColor=white&style=flat-square" alt="Bilibili">](#Bilibili) |
+| 🎬 [AcFun](#acfun) | [<img src="https://img.shields.io/badge/-Apple_Music-fc3c44?logo=applemusic&logoColor=white&style=flat-square" alt="Apple Music">](#Apple-Music) | [<img src="https://img.shields.io/badge/-哔哩哔哩-00A1D6?logo=bilibili&logoColor=white&style=flat-square" alt="哔哩哔哩">](#哔哩哔哩) |
 | 📚 [Comics / 漫画](#comics--漫画) | 🔴 [Live Streaming / 直播](#live-streaming--直播) | 💬 [Messaging / 即时通讯](#messaging--即时通讯) |
 | [<img src="https://img.shields.io/badge/-QQ-12B7F5?logo=tencentqq&logoColor=white&style=flat-square" alt="QQ">](#qq) | ✈️ [Telegram](#telegram) | 📱 [Coolapk / 酷安](#coolapk--酷安) |
-| 🎤 [Kugou Music / 酷狗音乐](#kugou-music--酷狗音乐) | 🎵 [Music Players / 音乐播放器](#music-players--音乐播放器) | 🎶 [NetEase Cloud Music / 网易云音乐](#netease-cloud-music--网易云音乐) |
+| 🎤 [Kugou Music / 酷狗音乐](#kugou-music--酷狗音乐) | 🎵 [Music Players / 音乐播放器](#music-players--音乐播放器) | [<img src="https://img.shields.io/badge/-网易云音乐-D43C33?logo=neteasecloudmusic&logoColor=white&style=flat-square" alt="网易云音乐">](#网易云音乐) |
 | [<img src="https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white&style=flat-square" alt="Spotify">](#Spotify) | ▶️ [YouTube Music](#youtube-music) | 🎨 [Pixiv](#pixiv) |
 | 🗨️ [Tieba / 贴吧](#tieba--贴吧) | 🌐 [Network Proxy / 网络代理](#network-proxy--网络代理) | ☁️ [Cloud Drive & File Manager / 网盘 / 文件管理](#cloud-drive--file-manager--网盘--文件管理) |
 | 🖱️ [Hardware Peripherals / 硬件外设](#hardware-peripherals--硬件外设) | 🔧 [Tubatools / 图吧工具箱](#tubatools--图吧工具箱) | ⚙️ [System Tools / 系统工具](#system-tools--系统工具) |
@@ -34,7 +34,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra) | <a href="https://github.com/revblaze/AppleMusicUltra/stargazers"><img src="https://img.shields.io/github/stars/revblaze/AppleMusicUltra?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/revblaze/AppleMusicUltra/releases"><img src="https://img.shields.io/github/release-date/revblaze/AppleMusicUltra?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Cider](https://github.com/ciderapp/Cider) | <a href="https://github.com/ciderapp/Cider/stargazers"><img src="https://img.shields.io/github/stars/ciderapp/Cider?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/ciderapp/Cider/releases"><img src="https://img.shields.io/github/release-date/ciderapp/Cider?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## Bilibili
+## 哔哩哔哩
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -133,7 +133,7 @@ A curated list of awesome third-party clients on GitHub | 收集 GitHub 上各�
 | [SmartisanMusic-Revived](https://github.com/Mangi-11/SmartisanMusic-Revived) | <a href="https://github.com/Mangi-11/SmartisanMusic-Revived/stargazers"><img src="https://img.shields.io/github/stars/Mangi-11/SmartisanMusic-Revived?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Mangi-11/SmartisanMusic-Revived/releases"><img src="https://img.shields.io/github/release-date/Mangi-11/SmartisanMusic-Revived?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | [VutronMusic](https://github.com/stark81/VutronMusic) | <a href="https://github.com/stark81/VutronMusic/stargazers"><img src="https://img.shields.io/github/stars/stark81/VutronMusic?style=for-the-badge&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/stark81/VutronMusic/releases"><img src="https://img.shields.io/github/release-date/stark81/VutronMusic?style=for-the-badge&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-## NetEase Cloud Music
+## 网易云音乐
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
