@@ -16,6 +16,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra) | <a href="https://github.com/revblaze/AppleMusicUltra/stargazers"><img src="https://img.shields.io/github/stars/revblaze/AppleMusicUltra?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/revblaze/AppleMusicUltra/releases"><img src="https://img.shields.io/github/release-date/revblaze/AppleMusicUltra?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Cider](https://github.com/ciderapp/Cider) | <a href="https://github.com/ciderapp/Cider/stargazers"><img src="https://img.shields.io/github/stars/ciderapp/Cider?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/ciderapp/Cider/releases"><img src="https://img.shields.io/github/release-date/ciderapp/Cider?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Musish](https://github.com/Musish/Musish) | <a href="https://github.com/Musish/Musish/stargazers"><img src="https://img.shields.io/github/stars/Musish/Musish?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Musish/Musish/releases"><img src="https://img.shields.io/github/release-date/Musish/Musish?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
 
 ## 哔哩哔哩
 
