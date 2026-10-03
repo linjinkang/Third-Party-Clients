@@ -8,7 +8,7 @@
 
 | Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [ACAC](https://github.com/xiaye13579/ACAC) | <a href="https://github.com/xiaye13579/ACAC/stargazers"><img src="https://img.shields.io/github/stars/xiaye13579/ACAC?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/xiaye13579/ACAC/releases"><img src="https://img.shields.io/github/release-date/xiaye13579/ACAC?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ TV | ❌ | ❌ | ❌ | ❌ |
+| [ACAC](https://github.com/xiaye13579/ACAC) | <a href="https://github.com/xiaye13579/ACAC/stargazers"><img src="https://img.shields.io/github/stars/xiaye13579/ACAC?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/xiaye13579/ACAC/releases"><img src="https://img.shields.io/github/release-date/xiaye13579/ACAC?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ TV & Pad | ❌ | ❌ | ❌ | ❌ |
 
 ## Apple Music
 
