@@ -6,239 +6,265 @@
 
 ## AcFun
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [ACAC](https://github.com/xiaye13579/ACAC) | <a href="https://github.com/xiaye13579/ACAC/stargazers"><img src="https://img.shields.io/github/stars/xiaye13579/ACAC?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/xiaye13579/ACAC/releases"><img src="https://img.shields.io/github/release-date/xiaye13579/ACAC?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ TV & Pad | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                               | Stars | Release | Windows | macOS | Linux | Android     | iOS | Web | tvOS | Others |
+| ------------------------------------------ | ----- | ------- | ------- | ----- | ----- | ----------- | --- | --- | ---- | ------ |
+| [ACAC](https://github.com/xiaye13579/ACAC) |       |         | ❌      | ❌    | ❌    | ✅ TV & Pad | ❌  | ❌  | ❌   | ❌     |
 
 ## Apple Music
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra) | <a href="https://github.com/revblaze/AppleMusicUltra/stargazers"><img src="https://img.shields.io/github/stars/revblaze/AppleMusicUltra?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/revblaze/AppleMusicUltra/releases"><img src="https://img.shields.io/github/release-date/revblaze/AppleMusicUltra?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [apple-music-webplayer](https://github.com/zachomedia/apple-music-webplayer) | <a href="https://github.com/zachomedia/apple-music-webplayer/stargazers"><img src="https://img.shields.io/github/stars/zachomedia/apple-music-webplayer?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/zachomedia/apple-music-webplayer/releases"><img src="https://img.shields.io/github/release-date/zachomedia/apple-music-webplayer?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
-| [Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) | <a href="https://github.com/ciderapp/Apple-Music-Electron/stargazers"><img src="https://img.shields.io/github/stars/ciderapp/Apple-Music-Electron?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/ciderapp/Apple-Music-Electron/releases"><img src="https://img.shields.io/github/release-date/ciderapp/Apple-Music-Electron?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Cider](https://github.com/ciderapp/Cider) | <a href="https://github.com/ciderapp/Cider/stargazers"><img src="https://img.shields.io/github/stars/ciderapp/Cider?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/ciderapp/Cider/releases"><img src="https://img.shields.io/github/release-date/ciderapp/Cider?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Musish](https://github.com/Musish/Musish) | <a href="https://github.com/Musish/Musish/stargazers"><img src="https://img.shields.io/github/stars/Musish/Musish?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Musish/Musish/releases"><img src="https://img.shields.io/github/release-date/Musish/Musish?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
-| [music-web-player](https://github.com/naveedgol/music-web-player) | <a href="https://github.com/naveedgol/music-web-player/stargazers"><img src="https://img.shields.io/github/stars/naveedgol/music-web-player?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/naveedgol/music-web-player/releases"><img src="https://img.shields.io/github/release-date/naveedgol/music-web-player?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
+
+| Repositories                                                                 | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| ---------------------------------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra)               |       |         | ❌      | ✅    | ❌    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [apple-music-webplayer](https://github.com/zachomedia/apple-music-webplayer) |       |         | ❌      | ❌    | ❌    | ❌      | ❌  | ✅  | ❌   | ❌     |
+| [Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron)     |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [Cider](https://github.com/ciderapp/Cider)                                   |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [Musish](https://github.com/Musish/Musish)                                   |       |         | ❌      | ❌    | ❌    | ❌      | ❌  | ✅  | ❌   | ❌     |
+| [music-web-player](https://github.com/naveedgol/music-web-player)            |       |         | ❌      | ❌    | ❌    | ❌      | ❌  | ✅  | ❌   | ❌     |
 
 ## 哔哩哔哩
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) | <a href="https://github.com/yichengchen/ATV-Bilibili-demo/stargazers"><img src="https://img.shields.io/github/stars/yichengchen/ATV-Bilibili-demo?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/yichengchen/ATV-Bilibili-demo/releases"><img src="https://img.shields.io/github/release-date/yichengchen/ATV-Bilibili-demo?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
-| [BBLL](https://github.com/xiaye13579/BBLL) | <a href="https://github.com/xiaye13579/BBLL/stargazers"><img src="https://img.shields.io/github/stars/xiaye13579/BBLL?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/xiaye13579/BBLL/releases"><img src="https://img.shields.io/github/release-date/xiaye13579/BBLL?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ TV | ❌ | ❌ | ❌ | ❌ |
-| [BBLLV5](https://github.com/swyefun/BBLLV5) | <a href="https://github.com/swyefun/BBLLV5/stargazers"><img src="https://img.shields.io/github/stars/swyefun/BBLLV5?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/swyefun/BBLLV5/releases"><img src="https://img.shields.io/github/release-date/swyefun/BBLLV5?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ TV | ❌ | ❌ | ❌ | ❌ |
-| [BT](https://github.com/chinasoul/BT) | <a href="https://github.com/chinasoul/BT/stargazers"><img src="https://img.shields.io/github/stars/chinasoul/BT?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/chinasoul/BT/releases"><img src="https://img.shields.io/github/release-date/chinasoul/BT?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ TV | ❌ | ❌ | ❌ | ❌ |
-| [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) | <a href="https://github.com/Richasy/Bili.Copilot/stargazers"><img src="https://img.shields.io/github/stars/Richasy/Bili.Copilot?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Richasy/Bili.Copilot/releases"><img src="https://img.shields.io/github/release-date/Richasy/Bili.Copilot?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) | <a href="https://github.com/Richasy/Bili.Uwp/stargazers"><img src="https://img.shields.io/github/stars/Richasy/Bili.Uwp?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Richasy/Bili.Uwp/releases"><img src="https://img.shields.io/github/release-date/Richasy/Bili.Uwp?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) | <a href="https://github.com/Richasy/BiliBili-UWP/stargazers"><img src="https://img.shields.io/github/stars/Richasy/BiliBili-UWP?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Richasy/BiliBili-UWP/releases"><img src="https://img.shields.io/github/release-date/Richasy/BiliBili-UWP?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [BiliBiliMApp](https://github.com/TouchFriend/BiliBiliMApp) | <a href="https://github.com/TouchFriend/BiliBiliMApp/stargazers"><img src="https://img.shields.io/github/stars/TouchFriend/BiliBiliMApp?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/TouchFriend/BiliBiliMApp/releases"><img src="https://img.shields.io/github/release-date/TouchFriend/BiliBiliMApp?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [BiliPai](https://github.com/jay3-yy/BiliPai) | <a href="https://github.com/jay3-yy/BiliPai/stargazers"><img src="https://img.shields.io/github/stars/jay3-yy/BiliPai?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/jay3-yy/BiliPai/releases"><img src="https://img.shields.io/github/release-date/jay3-yy/BiliPai?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [bilibili-linux](https://github.com/msojocs/bilibili-linux) | <a href="https://github.com/msojocs/bilibili-linux/stargazers"><img src="https://img.shields.io/github/stars/msojocs/bilibili-linux?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/msojocs/bilibili-linux/releases"><img src="https://img.shields.io/github/release-date/msojocs/bilibili-linux?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [bilibilitv1.6.6-repair](https://github.com/qidian55/bilibilitv1.6.6-repair) | <a href="https://github.com/qidian55/bilibilitv1.6.6-repair/stargazers"><img src="https://img.shields.io/github/stars/qidian55/bilibilitv1.6.6-repair?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/qidian55/bilibilitv1.6.6-repair/releases"><img src="https://img.shields.io/github/release-date/qidian55/bilibilitv1.6.6-repair?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ TV | ❌ | ❌ | ❌ | ❌ |
-| [bilimiao2](https://github.com/10miaomiao/bilimiao2) | <a href="https://github.com/10miaomiao/bilimiao2/stargazers"><img src="https://img.shields.io/github/stars/10miaomiao/bilimiao2?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/10miaomiao/bilimiao2/releases"><img src="https://img.shields.io/github/release-date/10miaomiao/bilimiao2?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [bilimini](https://github.com/chitosai/bilimini) | <a href="https://github.com/chitosai/bilimini/stargazers"><img src="https://img.shields.io/github/stars/chitosai/bilimini?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/chitosai/bilimini/releases"><img src="https://img.shields.io/github/release-date/chitosai/bilimini?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [biliuwp](https://github.com/xiaoyaocz/biliuwp) | <a href="https://github.com/xiaoyaocz/biliuwp/stargazers"><img src="https://img.shields.io/github/stars/xiaoyaocz/biliuwp?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/xiaoyaocz/biliuwp/releases"><img src="https://img.shields.io/github/release-date/xiaoyaocz/biliuwp?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite) | <a href="https://github.com/xiaoyaocz/biliuwp-lite/stargazers"><img src="https://img.shields.io/github/stars/xiaoyaocz/biliuwp-lite?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/xiaoyaocz/biliuwp-lite/releases"><img src="https://img.shields.io/github/release-date/xiaoyaocz/biliuwp-lite?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [bili_you](https://github.com/lucinhu/bili_you) | <a href="https://github.com/lucinhu/bili_you/stargazers"><img src="https://img.shields.io/github/stars/lucinhu/bili_you?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/lucinhu/bili_you/releases"><img src="https://img.shields.io/github/release-date/lucinhu/bili_you?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [blbl](https://github.com/cat3399/blbl) | <a href="https://github.com/cat3399/blbl/stargazers"><img src="https://img.shields.io/github/stars/cat3399/blbl?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/cat3399/blbl/releases"><img src="https://img.shields.io/github/release-date/cat3399/blbl?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ TV | ❌ | ❌ | ❌ | ❌ |
-| [bv](https://github.com/aaa1115910/bv) | <a href="https://github.com/aaa1115910/bv/stargazers"><img src="https://img.shields.io/github/stars/aaa1115910/bv?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/aaa1115910/bv/releases"><img src="https://img.shields.io/github/release-date/aaa1115910/bv?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ TV | ❌ | ❌ | ❌ | ❌ |
-| [cilicili](https://github.com/Rone89/cilicili) | <a href="https://github.com/Rone89/cilicili/stargazers"><img src="https://img.shields.io/github/stars/Rone89/cilicili?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Rone89/cilicili/releases"><img src="https://img.shields.io/github/release-date/Rone89/cilicili?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
-| [JKVideo](https://github.com/tiajinsha/JKVideo) | <a href="https://github.com/tiajinsha/JKVideo/stargazers"><img src="https://img.shields.io/github/stars/tiajinsha/JKVideo?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/tiajinsha/JKVideo/releases"><img src="https://img.shields.io/github/release-date/tiajinsha/JKVideo?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ |
-| [MiniBili-WEB](https://github.com/ResistanceTo/MiniBili-WEB) | <a href="https://github.com/ResistanceTo/MiniBili-WEB/stargazers"><img src="https://img.shields.io/github/stars/ResistanceTo/MiniBili-WEB?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/ResistanceTo/MiniBili-WEB/releases"><img src="https://img.shields.io/github/release-date/ResistanceTo/MiniBili-WEB?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
-| [PiliPalaX](https://github.com/orz12/PiliPalaX) | <a href="https://github.com/orz12/PiliPalaX/stargazers"><img src="https://img.shields.io/github/stars/orz12/PiliPalaX?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/orz12/PiliPalaX/releases"><img src="https://img.shields.io/github/release-date/orz12/PiliPalaX?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ Pad | ✅ | ❌ | ❌ | ❌ |
-| [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | <a href="https://github.com/bggRGjQaUbCoE/PiliPlus/stargazers"><img src="https://img.shields.io/github/stars/bggRGjQaUbCoE/PiliPlus?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/bggRGjQaUbCoE/PiliPlus/releases"><img src="https://img.shields.io/github/release-date/bggRGjQaUbCoE/PiliPlus?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ✅ | ✅ Pad | ✅ | ❌ | ❌ | ❌ |
-| [pilipala](https://github.com/guozhigq/pilipala) | <a href="https://github.com/guozhigq/pilipala/stargazers"><img src="https://img.shields.io/github/stars/guozhigq/pilipala?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/guozhigq/pilipala/releases"><img src="https://img.shields.io/github/release-date/guozhigq/pilipala?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
-| [pilipro](https://github.com/naaammme/pilipro) | <a href="https://github.com/naaammme/pilipro/stargazers"><img src="https://img.shields.io/github/stars/naaammme/pilipro?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/naaammme/pilipro/releases"><img src="https://img.shields.io/github/release-date/naaammme/pilipro?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [wiliwili](https://github.com/xfangfang/wiliwili) | <a href="https://github.com/xfangfang/wiliwili/stargazers"><img src="https://img.shields.io/github/stars/xfangfang/wiliwili?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/xfangfang/wiliwili/releases"><img src="https://img.shields.io/github/release-date/xfangfang/wiliwili?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ Nintendo Switch |
+
+| Repositories                                                                 | Stars | Release | Windows | macOS | Linux | Android     | iOS | Web | tvOS | Others             |
+| ---------------------------------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ----------- | --- | --- | ---- | ------------------ |
+| [ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo)        |       |         | ❌      | ❌    | ❌    | ❌          | ❌  | ❌  | ✅   | ❌                 |
+| [BBLL](https://github.com/xiaye13579/BBLL)                                   |       |         | ❌      | ❌    | ❌    | ✅ TV & Pad | ❌  | ❌  | ❌   | ❌                 |
+| [BBLLV5](https://github.com/swyefun/BBLLV5)                                  |       |         | ❌      | ❌    | ❌    | ✅ TV& Pad  | ❌  | ❌  | ❌   | ❌                 |
+| [BT](https://github.com/chinasoul/BT)                                        |       |         | ❌      | ❌    | ❌    | ✅ TV       | ❌  | ❌  | ❌   | ❌                 |
+| [Bili.Copilot](https://github.com/Richasy/Bili.Copilot)                      |       |         | ✅      | ❌    | ❌    | ❌          | ❌  | ❌  | ❌   | ❌                 |
+| [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)                              |       |         | ✅      | ❌    | ❌    | ❌          | ❌  | ❌  | ❌   | ❌                 |
+| [BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP)                      |       |         | ✅      | ❌    | ❌    | ❌          | ❌  | ❌  | ❌   | ❌                 |
+| [BiliBiliMApp](https://github.com/TouchFriend/BiliBiliMApp)                  |       |         | ❌      | ❌    | ❌    | ✅          | ❌  | ❌  | ❌   | ❌                 |
+| [BiliPai](https://github.com/jay3-yy/BiliPai)                                |       |         | ❌      | ❌    | ❌    | ✅          | ❌  | ❌  | ❌   | ❌                 |
+| [bilibili-linux](https://github.com/msojocs/bilibili-linux)                  |       |         | ❌      | ❌    | ✅    | ❌          | ❌  | ❌  | ❌   | ❌                 |
+| [bilibilitv1.6.6-repair](https://github.com/qidian55/bilibilitv1.6.6-repair) |       |         | ❌      | ❌    | ❌    | ✅ TV       | ❌  | ❌  | ❌   | ❌                 |
+| [bilimiao2](https://github.com/10miaomiao/bilimiao2)                         |       |         | ❌      | ❌    | ❌    | ✅          | ❌  | ❌  | ❌   | ❌                 |
+| [bilimini](https://github.com/chitosai/bilimini)                             |       |         | ✅      | ✅    | ✅    | ❌          | ❌  | ❌  | ❌   | ❌                 |
+| [biliuwp](https://github.com/xiaoyaocz/biliuwp)                              |       |         | ✅      | ❌    | ❌    | ❌          | ❌  | ❌  | ❌   | ❌                 |
+| [biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite)                    |       |         | ✅      | ❌    | ❌    | ❌          | ❌  | ❌  | ❌   | ❌                 |
+| [bili_you](https://github.com/lucinhu/bili_you)                              |       |         | ❌      | ❌    | ❌    | ✅          | ❌  | ❌  | ❌   | ❌                 |
+| [blbl](https://github.com/cat3399/blbl)                                      |       |         | ❌      | ❌    | ❌    | ✅ TV       | ❌  | ❌  | ❌   | ❌                 |
+| [bv](https://github.com/aaa1115910/bv)                                       |       |         | ❌      | ❌    | ❌    | ✅ TV       | ❌  | ❌  | ❌   | ❌                 |
+| [cilicili](https://github.com/Rone89/cilicili)                               |       |         | ❌      | ❌    | ❌    | ❌          | ✅  | ❌  | ❌   | ❌                 |
+| [JKVideo](https://github.com/tiajinsha/JKVideo)                              |       |         | ❌      | ❌    | ❌    | ✅          | ✅  | ✅  | ❌   | ❌                 |
+| [MiniBili-WEB](https://github.com/ResistanceTo/MiniBili-WEB)                 |       |         | ❌      | ❌    | ❌    | ❌          | ❌  | ✅  | ❌   | ❌                 |
+| [PiliPalaX](https://github.com/orz12/PiliPalaX)                              |       |         | ❌      | ❌    | ❌    | ✅ Pad      | ✅  | ❌  | ❌   | ❌                 |
+| [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)                        |       |         | ✅      | ❌    | ✅    | ✅ Pad      | ✅  | ❌  | ❌   | ❌                 |
+| [pilipala](https://github.com/guozhigq/pilipala)                             |       |         | ❌      | ❌    | ❌    | ✅          | ✅  | ❌  | ❌   | ❌                 |
+| [pilipro](https://github.com/naaammme/pilipro)                               |       |         | ❌      | ❌    | ❌    | ✅          | ❌  | ❌  | ❌   | ❌                 |
+| [wiliwili](https://github.com/xfangfang/wiliwili)                            |       |         | ✅      | ✅    | ✅    | ❌          | ❌  | ❌  | ❌   | ✅ Nintendo Switch |
 
 ## 漫画
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [AniBaka](https://github.com/AniBakaBaka/AniBaka) | <a href="https://github.com/AniBakaBaka/AniBaka/stargazers"><img src="https://img.shields.io/github/stars/AniBakaBaka/AniBaka?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/AniBakaBaka/AniBaka/releases"><img src="https://img.shields.io/github/release-date/AniBakaBaka/AniBaka?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
-| [EMHentai](https://github.com/yuman07/EMHentai) | <a href="https://github.com/yuman07/EMHentai/stargazers"><img src="https://img.shields.io/github/stars/yuman07/EMHentai?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/yuman07/EMHentai/releases"><img src="https://img.shields.io/github/release-date/yuman07/EMHentai?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
-| [haka_comic](https://github.com/raoxwup/haka_comic) | <a href="https://github.com/raoxwup/haka_comic/stargazers"><img src="https://img.shields.io/github/stars/raoxwup/haka_comic?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/raoxwup/haka_comic/releases"><img src="https://img.shields.io/github/release-date/raoxwup/haka_comic?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [WaifuX](https://github.com/jipika/WaifuX) | <a href="https://github.com/jipika/WaifuX/stargazers"><img src="https://img.shields.io/github/stars/jipika/WaifuX?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/jipika/WaifuX/releases"><img src="https://img.shields.io/github/release-date/jipika/WaifuX?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                        | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| --------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [AniBaka](https://github.com/AniBakaBaka/AniBaka)   |       |         | ❌      | ❌    | ❌    | ✅      | ✅  | ❌  | ❌   | ❌     |
+| [EMHentai](https://github.com/yuman07/EMHentai)     |       |         | ❌      | ❌    | ❌    | ❌      | ✅  | ❌  | ❌   | ❌     |
+| [haka_comic](https://github.com/raoxwup/haka_comic) |       |         | ❌      | ❌    | ❌    | ✅      | ❌  | ❌  | ❌   | ❌     |
+| [WaifuX](https://github.com/jipika/WaifuX)          |       |         | ❌      | ✅    | ❌    | ❌      | ❌  | ❌  | ❌   | ❌     |
 
 ## 直播
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [dart_simple_live (June6699)](https://github.com/June6699/dart_simple_live) | <a href="https://github.com/June6699/dart_simple_live/stargazers"><img src="https://img.shields.io/github/stars/June6699/dart_simple_live?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/June6699/dart_simple_live/releases"><img src="https://img.shields.io/github/release-date/June6699/dart_simple_live?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ✅ TV | ✅ | ❌ | ❌ | ❌ |
-| [dart_simple_live (xiaoyaocz)](https://github.com/xiaoyaocz/dart_simple_live) | <a href="https://github.com/xiaoyaocz/dart_simple_live/stargazers"><img src="https://img.shields.io/github/stars/xiaoyaocz/dart_simple_live?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/xiaoyaocz/dart_simple_live/releases"><img src="https://img.shields.io/github/release-date/xiaoyaocz/dart_simple_live?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ✅ TV | ✅ | ❌ | ❌ | ❌ |
-| [HuYaTv](https://github.com/jayjd/HuYaTv) | <a href="https://github.com/jayjd/HuYaTv/stargazers"><img src="https://img.shields.io/github/stars/jayjd/HuYaTv?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/jayjd/HuYaTv/releases"><img src="https://img.shields.io/github/release-date/jayjd/HuYaTv?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ TV | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                                                  | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| ----------------------------------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [dart_simple_live (June6699)](https://github.com/June6699/dart_simple_live)   |       |         | ✅      | ✅    | ✅    | ✅ TV   | ✅  | ❌  | ❌   | ❌     |
+| [dart_simple_live (xiaoyaocz)](https://github.com/xiaoyaocz/dart_simple_live) |       |         | ✅      | ✅    | ✅    | ✅ TV   | ✅  | ❌  | ❌   | ❌     |
+| [HuYaTv](https://github.com/jayjd/HuYaTv)                                     |       |         | ❌      | ❌    | ❌    | ✅ TV   | ❌  | ❌  | ❌   | ❌     |
 
 ## Messaging
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [HuLa](https://github.com/HuLaSpark/HuLa) | <a href="https://github.com/HuLaSpark/HuLa/stargazers"><img src="https://img.shields.io/github/stars/HuLaSpark/HuLa?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/HuLaSpark/HuLa/releases"><img src="https://img.shields.io/github/release-date/HuLaSpark/HuLa?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+
+| Repositories                              | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| ----------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [HuLa](https://github.com/HuLaSpark/HuLa) |       |         | ✅      | ✅    | ✅    | ✅      | ✅  | ❌  | ❌   | ❌     |
 
 ## QQ
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) | <a href="https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/stargazers"><img src="https://img.shields.io/github/stars/Icalingua-plus-plus/Icalingua-plus-plus?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases"><img src="https://img.shields.io/github/release-date/Icalingua-plus-plus/Icalingua-plus-plus?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                                                      | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| --------------------------------------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ❌  | ❌   | ❌     |
 
 ## Telegram
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Unigram](https://github.com/UnigramDev/Unigram) | <a href="https://github.com/UnigramDev/Unigram/stargazers"><img src="https://img.shields.io/github/stars/UnigramDev/Unigram?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/UnigramDev/Unigram/releases"><img src="https://img.shields.io/github/release-date/UnigramDev/Unigram?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                     | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| ------------------------------------------------ | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [Unigram](https://github.com/UnigramDev/Unigram) |       |         | ✅      | ❌    | ❌    | ❌      | ❌  | ❌  | ❌   | ❌     |
 
 ## 酷安
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Coolapk-Lite](https://github.com/Coolapk-UWP/Coolapk-Lite) | <a href="https://github.com/Coolapk-UWP/Coolapk-Lite/stargazers"><img src="https://img.shields.io/github/stars/Coolapk-UWP/Coolapk-Lite?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Coolapk-UWP/Coolapk-Lite/releases"><img src="https://img.shields.io/github/release-date/Coolapk-UWP/Coolapk-Lite?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Coolapk-UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | <a href="https://github.com/Coolapk-UWP/Coolapk-UWP/stargazers"><img src="https://img.shields.io/github/stars/Coolapk-UWP/Coolapk-UWP?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Coolapk-UWP/Coolapk-UWP/releases"><img src="https://img.shields.io/github/release-date/Coolapk-UWP/Coolapk-UWP?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Coolapk-UWP (Cyenoch)](https://github.com/Cyenoch/Coolapk-UWP) | <a href="https://github.com/Cyenoch/Coolapk-UWP/stargazers"><img src="https://img.shields.io/github/stars/Cyenoch/Coolapk-UWP?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Cyenoch/Coolapk-UWP/releases"><img src="https://img.shields.io/github/release-date/Cyenoch/Coolapk-UWP?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [coolapk-desktop](https://github.com/daimiaopeng/coolapk-desktop) | <a href="https://github.com/daimiaopeng/coolapk-desktop/stargazers"><img src="https://img.shields.io/github/stars/daimiaopeng/coolapk-desktop?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/daimiaopeng/coolapk-desktop/releases"><img src="https://img.shields.io/github/release-date/daimiaopeng/coolapk-desktop?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+
+| Repositories                                                      | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| ----------------------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [Coolapk-Lite](https://github.com/Coolapk-UWP/Coolapk-Lite)       |       |         | ✅      | ❌    | ❌    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [Coolapk-UWP](https://github.com/Coolapk-UWP/Coolapk-UWP)         |       |         | ✅      | ❌    | ❌    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [Coolapk-UWP (Cyenoch)](https://github.com/Cyenoch/Coolapk-UWP)   |       |         | ✅      | ❌    | ❌    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [coolapk-desktop](https://github.com/daimiaopeng/coolapk-desktop) |       |         | ✅      | ✅    | ✅    | ✅      | ✅  | ❌  | ❌   | ❌     |
 
 ## 酷狗音乐
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [EchoMusic](https://github.com/hoowhoami/EchoMusic) | <a href="https://github.com/hoowhoami/EchoMusic/stargazers"><img src="https://img.shields.io/github/stars/hoowhoami/EchoMusic?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/hoowhoami/EchoMusic/releases"><img src="https://img.shields.io/github/release-date/hoowhoami/EchoMusic?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic) | <a href="https://github.com/MoeKoeMusic/MoeKoeMusic/stargazers"><img src="https://img.shields.io/github/stars/MoeKoeMusic/MoeKoeMusic?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/MoeKoeMusic/MoeKoeMusic/releases"><img src="https://img.shields.io/github/release-date/MoeKoeMusic/MoeKoeMusic?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                              | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| --------------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [EchoMusic](https://github.com/hoowhoami/EchoMusic)       |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic) |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ❌  | ❌   | ❌     |
 
 ## 音乐播放器
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | <a href="https://github.com/algerkong/AlgerMusicPlayer/stargazers"><img src="https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/algerkong/AlgerMusicPlayer/releases"><img src="https://img.shields.io/github/release-date/algerkong/AlgerMusicPlayer?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
-| [Cymusic](https://github.com/gyc-12/Cymusic) | <a href="https://github.com/gyc-12/Cymusic/stargazers"><img src="https://img.shields.io/github/stars/gyc-12/Cymusic?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/gyc-12/Cymusic/releases"><img src="https://img.shields.io/github/release-date/gyc-12/Cymusic?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [DsoMusic](https://github.com/Moriafly/DsoMusic) | <a href="https://github.com/Moriafly/DsoMusic/stargazers"><img src="https://img.shields.io/github/stars/Moriafly/DsoMusic?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Moriafly/DsoMusic/releases"><img src="https://img.shields.io/github/release-date/Moriafly/DsoMusic?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [KMusic](https://github.com/Mac-XK/KMusic) | <a href="https://github.com/Mac-XK/KMusic/stargazers"><img src="https://img.shields.io/github/stars/Mac-XK/KMusic?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Mac-XK/KMusic/releases"><img src="https://img.shields.io/github/release-date/Mac-XK/KMusic?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
-| [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | <a href="https://github.com/lyswhut/lx-music-desktop/stargazers"><img src="https://img.shields.io/github/stars/lyswhut/lx-music-desktop?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/lyswhut/lx-music-desktop/releases"><img src="https://img.shields.io/github/release-date/lyswhut/lx-music-desktop?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) | <a href="https://github.com/lyswhut/lx-music-mobile/stargazers"><img src="https://img.shields.io/github/stars/lyswhut/lx-music-mobile?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/lyswhut/lx-music-mobile/releases"><img src="https://img.shields.io/github/release-date/lyswhut/lx-music-mobile?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [LynMusic](https://github.com/wesley666/LynMusic) | <a href="https://github.com/wesley666/LynMusic/stargazers"><img src="https://img.shields.io/github/stars/wesley666/LynMusic?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/wesley666/LynMusic/releases"><img src="https://img.shields.io/github/release-date/wesley666/LynMusic?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
-| [Mineradio-paused](https://github.com/XxHuberrr/Mineradio-paused) | <a href="https://github.com/XxHuberrr/Mineradio-paused/stargazers"><img src="https://img.shields.io/github/stars/XxHuberrr/Mineradio-paused?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/XxHuberrr/Mineradio-paused/releases"><img src="https://img.shields.io/github/release-date/XxHuberrr/Mineradio-paused?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [museeks](https://github.com/martpie/museeks) | <a href="https://github.com/martpie/museeks/stargazers"><img src="https://img.shields.io/github/stars/martpie/museeks?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/martpie/museeks/releases"><img src="https://img.shields.io/github/release-date/martpie/museeks?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) | <a href="https://github.com/Moriafly/SaltPlayerSource/stargazers"><img src="https://img.shields.io/github/stars/Moriafly/SaltPlayerSource?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Moriafly/SaltPlayerSource/releases"><img src="https://img.shields.io/github/release-date/Moriafly/SaltPlayerSource?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [SmartisanMusic-Revived](https://github.com/Mangi-11/SmartisanMusic-Revived) | <a href="https://github.com/Mangi-11/SmartisanMusic-Revived/stargazers"><img src="https://img.shields.io/github/stars/Mangi-11/SmartisanMusic-Revived?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Mangi-11/SmartisanMusic-Revived/releases"><img src="https://img.shields.io/github/release-date/Mangi-11/SmartisanMusic-Revived?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [VutronMusic](https://github.com/stark81/VutronMusic) | <a href="https://github.com/stark81/VutronMusic/stargazers"><img src="https://img.shields.io/github/stars/stark81/VutronMusic?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/stark81/VutronMusic/releases"><img src="https://img.shields.io/github/release-date/stark81/VutronMusic?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                                                 | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| ---------------------------------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)            |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ✅  | ❌   | ❌     |
+| [Cymusic](https://github.com/gyc-12/Cymusic)                                 |       |         | ❌      | ❌    | ❌    | ✅      | ❌  | ❌  | ❌   | ❌     |
+| [DsoMusic](https://github.com/Moriafly/DsoMusic)                             |       |         | ❌      | ❌    | ❌    | ✅      | ❌  | ❌  | ❌   | ❌     |
+| [KMusic](https://github.com/Mac-XK/KMusic)                                   |       |         | ❌      | ✅    | ❌    | ❌      | ✅  | ❌  | ❌   | ❌     |
+| [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)              |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)                |       |         | ❌      | ❌    | ❌    | ✅      | ❌  | ❌  | ❌   | ❌     |
+| [LynMusic](https://github.com/wesley666/LynMusic)                            |       |         | ✅      | ✅    | ✅    | ✅      | ✅  | ❌  | ❌   | ❌     |
+| [Mineradio-paused](https://github.com/XxHuberrr/Mineradio-paused)            |       |         | ❌      | ✅    | ❌    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [museeks](https://github.com/martpie/museeks)                                |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)             |       |         | ✅      | ❌    | ❌    | ✅      | ❌  | ❌  | ❌   | ❌     |
+| [SmartisanMusic-Revived](https://github.com/Mangi-11/SmartisanMusic-Revived) |       |         | ❌      | ❌    | ❌    | ✅      | ❌  | ❌  | ❌   | ❌     |
+| [VutronMusic](https://github.com/stark81/VutronMusic)                        |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ❌  | ❌   | ❌     |
 
 ## 网易云音乐
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [MeloX](https://github.com/youshen2/MeloX) | <a href="https://github.com/youshen2/MeloX/stargazers"><img src="https://img.shields.io/github/stars/youshen2/MeloX?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/youshen2/MeloX/releases"><img src="https://img.shields.io/github/release-date/youshen2/MeloX?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ✅ | ❌ | ❌ | ✅ iPadOS | ❌ | ❌ | ✅ watchOS |
-| [NetEase-Cloud-Music-UWP-Repack](https://github.com/JasonWei512/NetEase-Cloud-Music-UWP-Repack) | <a href="https://github.com/JasonWei512/NetEase-Cloud-Music-UWP-Repack/stargazers"><img src="https://img.shields.io/github/stars/JasonWei512/NetEase-Cloud-Music-UWP-Repack?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/JasonWei512/NetEase-Cloud-Music-UWP-Repack/releases"><img src="https://img.shields.io/github/release-date/JasonWei512/NetEase-Cloud-Music-UWP-Repack?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [SPlayer](https://github.com/SPlayer-Dev/SPlayer) | <a href="https://github.com/SPlayer-Dev/SPlayer/stargazers"><img src="https://img.shields.io/github/stars/SPlayer-Dev/SPlayer?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/SPlayer-Dev/SPlayer/releases"><img src="https://img.shields.io/github/release-date/SPlayer-Dev/SPlayer?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
-| [SPlayer-Next](https://github.com/SPlayer-Dev/SPlayer-Next) | <a href="https://github.com/SPlayer-Dev/SPlayer-Next/stargazers"><img src="https://img.shields.io/github/stars/SPlayer-Dev/SPlayer-Next?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/SPlayer-Dev/SPlayer-Next/releases"><img src="https://img.shields.io/github/release-date/SPlayer-Dev/SPlayer-Next?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | <a href="https://github.com/qier222/YesPlayMusic/stargazers"><img src="https://img.shields.io/github/stars/qier222/YesPlayMusic?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/qier222/YesPlayMusic/releases"><img src="https://img.shields.io/github/release-date/qier222/YesPlayMusic?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [YTPlayer](https://github.com/ChenZ2000/YTPlayer) | <a href="https://github.com/ChenZ2000/YTPlayer/stargazers"><img src="https://img.shields.io/github/stars/ChenZ2000/YTPlayer?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/ChenZ2000/YTPlayer/releases"><img src="https://img.shields.io/github/release-date/ChenZ2000/YTPlayer?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                                                                    | Stars | Release | Windows | macOS | Linux | Android | iOS       | Web | tvOS | Others     |
+| ----------------------------------------------------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --------- | --- | ---- | ---------- |
+| [MeloX](https://github.com/youshen2/MeloX)                                                      |       |         | ❌      | ✅    | ❌    | ❌      | ✅ iPadOS | ❌  | ❌   | ✅ watchOS |
+| [NetEase-Cloud-Music-UWP-Repack](https://github.com/JasonWei512/NetEase-Cloud-Music-UWP-Repack) |       |         | ✅      | ❌    | ❌    | ❌      | ❌        | ❌  | ❌   | ❌         |
+| [SPlayer](https://github.com/SPlayer-Dev/SPlayer)                                               |       |         | ✅      | ✅    | ✅    | ❌      | ❌        | ✅  | ❌   | ❌         |
+| [SPlayer-Next](https://github.com/SPlayer-Dev/SPlayer-Next)                                     |       |         | ✅      | ✅    | ✅    | ❌      | ❌        | ❌  | ❌   | ❌         |
+| [YesPlayMusic](https://github.com/qier222/YesPlayMusic)                                         |       |         | ✅      | ✅    | ✅    | ❌      | ❌        | ❌  | ❌   | ❌         |
+| [YTPlayer](https://github.com/ChenZ2000/YTPlayer)                                               |       |         | ✅      | ❌    | ❌    | ❌      | ❌        | ❌  | ❌   | ❌         |
 
 ## Spotify
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [spicetify-cli](https://github.com/spicetify/cli) | <a href="https://github.com/spicetify/cli/stargazers"><img src="https://img.shields.io/github/stars/spicetify/cli?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/spicetify/cli/releases"><img src="https://img.shields.io/github/release-date/spicetify/cli?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [SpotX](https://github.com/SpotX-Official/SpotX) | <a href="https://github.com/SpotX-Official/SpotX/stargazers"><img src="https://img.shields.io/github/stars/SpotX-Official/SpotX?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/SpotX-Official/SpotX/releases"><img src="https://img.shields.io/github/release-date/SpotX-Official/SpotX?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [XpoMusic](https://github.com/MahdiGhiasi/XpoMusic) | <a href="https://github.com/MahdiGhiasi/XpoMusic/stargazers"><img src="https://img.shields.io/github/stars/MahdiGhiasi/XpoMusic?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/MahdiGhiasi/XpoMusic/releases"><img src="https://img.shields.io/github/release-date/MahdiGhiasi/XpoMusic?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                        | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| --------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [spicetify-cli](https://github.com/spicetify/cli)   |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [SpotX](https://github.com/SpotX-Official/SpotX)    |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [XpoMusic](https://github.com/MahdiGhiasi/XpoMusic) |       |         | ✅      | ❌    | ❌    | ❌      | ❌  | ❌  | ❌   | ❌     |
 
 ## YouTube Music
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) | <a href="https://github.com/dayanch96/YTMusicUltimate/stargazers"><img src="https://img.shields.io/github/stars/dayanch96/YTMusicUltimate?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/dayanch96/YTMusicUltimate/releases"><img src="https://img.shields.io/github/release-date/dayanch96/YTMusicUltimate?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ❌ | ✅ iPadOS | ❌ | ❌ | ❌ |
+
+| Repositories                                                    | Stars | Release | Windows | macOS | Linux | Android | iOS       | Web | tvOS | Others |
+| --------------------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --------- | --- | ---- | ------ |
+| [YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) |       |         | ❌      | ❌    | ❌    | ❌      | ✅ iPadOS | ❌  | ❌   | ❌     |
 
 ## Pixiv
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Hanairo](https://github.com/youshen2/Hanairo) | <a href="https://github.com/youshen2/Hanairo/stargazers"><img src="https://img.shields.io/github/stars/youshen2/Hanairo?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/youshen2/Hanairo/releases"><img src="https://img.shields.io/github/release-date/youshen2/Hanairo?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ visionOS |
-| [PiPixiv](https://github.com/darriousliu/PiPixiv) | <a href="https://github.com/darriousliu/PiPixiv/stargazers"><img src="https://img.shields.io/github/stars/darriousliu/PiPixiv?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/darriousliu/PiPixiv/releases"><img src="https://img.shields.io/github/release-date/darriousliu/PiPixiv?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-| [Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer) | <a href="https://github.com/Notsfsssf/Pix-EzViewer/stargazers"><img src="https://img.shields.io/github/stars/Notsfsssf/Pix-EzViewer?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Notsfsssf/Pix-EzViewer/releases"><img src="https://img.shields.io/github/release-date/Notsfsssf/Pix-EzViewer?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [Pix-EzViewer (ultranity)](https://github.com/ultranity/Pix-EzViewer) | <a href="https://github.com/ultranity/Pix-EzViewer/stargazers"><img src="https://img.shields.io/github/stars/ultranity/Pix-EzViewer?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/ultranity/Pix-EzViewer/releases"><img src="https://img.shields.io/github/release-date/ultranity/Pix-EzViewer?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [Pixeval](https://github.com/Pixeval/Pixeval) | <a href="https://github.com/Pixeval/Pixeval/stargazers"><img src="https://img.shields.io/github/stars/Pixeval/Pixeval?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Pixeval/Pixeval/releases"><img src="https://img.shields.io/github/release-date/Pixeval/Pixeval?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) | <a href="https://github.com/CeuiLiSA/Pixiv-Shaft/stargazers"><img src="https://img.shields.io/github/stars/CeuiLiSA/Pixiv-Shaft?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/CeuiLiSA/Pixiv-Shaft/releases"><img src="https://img.shields.io/github/release-date/CeuiLiSA/Pixiv-Shaft?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) | <a href="https://github.com/Eslzzyl/Pixiv-SwiftUI/stargazers"><img src="https://img.shields.io/github/stars/Eslzzyl/Pixiv-SwiftUI?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Eslzzyl/Pixiv-SwiftUI/releases"><img src="https://img.shields.io/github/release-date/Eslzzyl/Pixiv-SwiftUI?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ✅ | ❌ | ❌ | ✅ iPadOS | ❌ | ❌ | ❌ |
-| [PixivBiu](https://github.com/txperl/PixivBiu) | <a href="https://github.com/txperl/PixivBiu/stargazers"><img src="https://img.shields.io/github/stars/txperl/PixivBiu?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/txperl/PixivBiu/releases"><img src="https://img.shields.io/github/release-date/txperl/PixivBiu?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) | <a href="https://github.com/Notsfsssf/pixez-flutter/stargazers"><img src="https://img.shields.io/github/stars/Notsfsssf/pixez-flutter?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Notsfsssf/pixez-flutter/releases"><img src="https://img.shields.io/github/release-date/Notsfsssf/pixez-flutter?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
+
+| Repositories                                                          | Stars | Release | Windows | macOS | Linux | Android | iOS       | Web | tvOS | Others      |
+| --------------------------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --------- | --- | ---- | ----------- |
+| [Hanairo](https://github.com/youshen2/Hanairo)                        |       |         | ❌      | ✅    | ❌    | ❌      | ✅        | ❌  | ❌   | ✅ visionOS |
+| [PiPixiv](https://github.com/darriousliu/PiPixiv)                     |       |         | ✅      | ✅    | ✅    | ✅      | ✅        | ✅  | ❌   | ❌          |
+| [Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer)             |       |         | ❌      | ❌    | ❌    | ✅      | ❌        | ❌  | ❌   | ❌          |
+| [Pix-EzViewer (ultranity)](https://github.com/ultranity/Pix-EzViewer) |       |         | ❌      | ❌    | ❌    | ✅      | ❌        | ❌  | ❌   | ❌          |
+| [Pixeval](https://github.com/Pixeval/Pixeval)                         |       |         | ✅      | ❌    | ❌    | ❌      | ❌        | ❌  | ❌   | ❌          |
+| [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft)                |       |         | ❌      | ❌    | ❌    | ✅      | ❌        | ❌  | ❌   | ❌          |
+| [Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI)             |       |         | ❌      | ✅    | ❌    | ❌      | ✅ iPadOS | ❌  | ❌   | ❌          |
+| [PixivBiu](https://github.com/txperl/PixivBiu)                        |       |         | ✅      | ✅    | ✅    | ❌      | ❌        | ❌  | ❌   | ❌          |
+| [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter)           |       |         | ✅      | ❌    | ❌    | ✅      | ✅        | ❌  | ❌   | ❌          |
 
 ## 百度贴吧
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [TiebaLite](https://github.com/HuanCheng65/TiebaLite) | <a href="https://github.com/HuanCheng65/TiebaLite/stargazers"><img src="https://img.shields.io/github/stars/HuanCheng65/TiebaLite?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/HuanCheng65/TiebaLite/releases"><img src="https://img.shields.io/github/release-date/HuanCheng65/TiebaLite?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                          | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| ----------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [TiebaLite](https://github.com/HuanCheng65/TiebaLite) |       |         | ❌      | ❌    | ❌    | ✅      | ❌  | ❌  | ❌   | ❌     |
 
 ## 网络代理
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [ClashBar](https://github.com/Sitoi/ClashBar) | <a href="https://github.com/Sitoi/ClashBar/stargazers"><img src="https://img.shields.io/github/stars/Sitoi/ClashBar?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Sitoi/ClashBar/releases"><img src="https://img.shields.io/github/release-date/Sitoi/ClashBar?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | <a href="https://github.com/MetaCubeX/ClashMetaForAndroid/stargazers"><img src="https://img.shields.io/github/stars/MetaCubeX/ClashMetaForAndroid?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/MetaCubeX/ClashMetaForAndroid/releases"><img src="https://img.shields.io/github/release-date/MetaCubeX/ClashMetaForAndroid?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [clash-party](https://github.com/mihomo-party-org/clash-party) | <a href="https://github.com/mihomo-party-org/clash-party/stargazers"><img src="https://img.shields.io/github/stars/mihomo-party-org/clash-party?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/mihomo-party-org/clash-party/releases"><img src="https://img.shields.io/github/release-date/mihomo-party-org/clash-party?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | <a href="https://github.com/clash-verge-rev/clash-verge-rev/stargazers"><img src="https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/clash-verge-rev/clash-verge-rev/releases"><img src="https://img.shields.io/github/release-date/clash-verge-rev/clash-verge-rev?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [clashmi](https://github.com/KaringX/clashmi) | <a href="https://github.com/KaringX/clashmi/stargazers"><img src="https://img.shields.io/github/stars/KaringX/clashmi?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/KaringX/clashmi/releases"><img src="https://img.shields.io/github/release-date/KaringX/clashmi?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ✅ | ✅ iPadOS | ❌ | ❌ | ❌ |
-| [Hako-Client](https://github.com/TokenPLS/Hako-Client) | <a href="https://github.com/TokenPLS/Hako-Client/stargazers"><img src="https://img.shields.io/github/stars/TokenPLS/Hako-Client?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/TokenPLS/Hako-Client/releases"><img src="https://img.shields.io/github/release-date/TokenPLS/Hako-Client?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ✅ | ❌ | ❌ | ✅ iPadOS | ❌ | ✅ | ❌ |
+
+| Repositories                                                            | Stars | Release | Windows | macOS | Linux | Android | iOS       | Web | tvOS | Others |
+| ----------------------------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --------- | --- | ---- | ------ |
+| [ClashBar](https://github.com/Sitoi/ClashBar)                           |       |         | ❌      | ✅    | ❌    | ❌      | ❌        | ❌  | ❌   | ❌     |
+| [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) |       |         | ❌      | ❌    | ❌    | ✅      | ❌        | ❌  | ❌   | ❌     |
+| [clash-party](https://github.com/mihomo-party-org/clash-party)          |       |         | ✅      | ✅    | ✅    | ❌      | ❌        | ❌  | ❌   | ❌     |
+| [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)   |       |         | ✅      | ✅    | ✅    | ❌      | ❌        | ❌  | ❌   | ❌     |
+| [clashmi](https://github.com/KaringX/clashmi)                           |       |         | ✅      | ✅    | ✅    | ✅      | ✅ iPadOS | ❌  | ❌   | ❌     |
+| [Hako-Client](https://github.com/TokenPLS/Hako-Client)                  |       |         | ❌      | ✅    | ❌    | ❌      | ✅ iPadOS | ❌  | ✅   | ❌     |
 
 ## 云盘
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [123pan](https://github.com/123panNextGen/123pan) | <a href="https://github.com/123panNextGen/123pan/stargazers"><img src="https://img.shields.io/github/stars/123panNextGen/123pan?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/123panNextGen/123pan/releases"><img src="https://img.shields.io/github/release-date/123panNextGen/123pan?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [aliyunpan (liupan1890)](https://github.com/liupan1890/aliyunpan) | <a href="https://github.com/liupan1890/aliyunpan/stargazers"><img src="https://img.shields.io/github/stars/liupan1890/aliyunpan?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/liupan1890/aliyunpan/releases"><img src="https://img.shields.io/github/release-date/liupan1890/aliyunpan?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [aliyunpan (PingKuNet)](https://github.com/PingKuNet/aliyunpan) | <a href="https://github.com/PingKuNet/aliyunpan/stargazers"><img src="https://img.shields.io/github/stars/PingKuNet/aliyunpan?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/PingKuNet/aliyunpan/releases"><img src="https://img.shields.io/github/release-date/PingKuNet/aliyunpan?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [BaiduPCS-Rust](https://github.com/komorebiCarry/BaiduPCS-Rust) | <a href="https://github.com/komorebiCarry/BaiduPCS-Rust/stargazers"><img src="https://img.shields.io/github/stars/komorebiCarry/BaiduPCS-Rust?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/komorebiCarry/BaiduPCS-Rust/releases"><img src="https://img.shields.io/github/release-date/komorebiCarry/BaiduPCS-Rust?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
-| [Files](https://github.com/files-community/Files) | <a href="https://github.com/files-community/Files/stargazers"><img src="https://img.shields.io/github/stars/files-community/Files?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/files-community/Files/releases"><img src="https://img.shields.io/github/release-date/files-community/Files?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                                      | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| ----------------------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [123pan](https://github.com/123panNextGen/123pan)                 |       |         | ✅      | ❌    | ❌    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [aliyunpan (liupan1890)](https://github.com/liupan1890/aliyunpan) |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [aliyunpan (PingKuNet)](https://github.com/PingKuNet/aliyunpan)   |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [BaiduPCS-Rust](https://github.com/komorebiCarry/BaiduPCS-Rust)   |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ✅  | ❌   | ❌     |
+| [Files](https://github.com/files-community/Files)                 |       |         | ✅      | ❌    | ❌    | ❌      | ❌  | ❌  | ❌   | ❌     |
 
 ## 硬件外设
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [OpenLogi](https://github.com/AprilNEA/OpenLogi) | <a href="https://github.com/AprilNEA/OpenLogi/stargazers"><img src="https://img.shields.io/github/stars/AprilNEA/OpenLogi?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/AprilNEA/OpenLogi/releases"><img src="https://img.shields.io/github/release-date/AprilNEA/OpenLogi?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                     | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| ------------------------------------------------ | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [OpenLogi](https://github.com/AprilNEA/OpenLogi) |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ❌  | ❌   | ❌     |
 
 ## 图吧工具箱
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [tubatools](https://github.com/luolangaga/tubatools) | <a href="https://github.com/luolangaga/tubatools/stargazers"><img src="https://img.shields.io/github/stars/luolangaga/tubatools?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/luolangaga/tubatools/releases"><img src="https://img.shields.io/github/release-date/luolangaga/tubatools?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                         | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| ---------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [tubatools](https://github.com/luolangaga/tubatools) |       |         | ✅      | ❌    | ❌    | ❌      | ❌  | ❌  | ❌   | ❌     |
 
 ## 其他工具
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [FluentHub](https://github.com/0x5bfa/FluentHub) | <a href="https://github.com/0x5bfa/FluentHub/stargazers"><img src="https://img.shields.io/github/stars/0x5bfa/FluentHub?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/0x5bfa/FluentHub/releases"><img src="https://img.shields.io/github/release-date/0x5bfa/FluentHub?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [MrRSS](https://github.com/DevXDojo/MrRSS) | <a href="https://github.com/DevXDojo/MrRSS/stargazers"><img src="https://img.shields.io/github/stars/DevXDojo/MrRSS?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/DevXDojo/MrRSS/releases"><img src="https://img.shields.io/github/release-date/DevXDojo/MrRSS?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) | <a href="https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/stargazers"><img src="https://img.shields.io/github/stars/AutoDarkMode/Windows-Auto-Night-Mode?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases"><img src="https://img.shields.io/github/release-date/AutoDarkMode/Windows-Auto-Night-Mode?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                                                       | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| ---------------------------------------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [FluentHub](https://github.com/0x5bfa/FluentHub)                                   |       |         | ✅      | ❌    | ❌    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [MrRSS](https://github.com/DevXDojo/MrRSS)                                         |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) |       |         | ✅      | ❌    | ❌    | ❌      | ❌  | ❌  | ❌   | ❌     |
 
 ## CCleaner
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [FluentCleaner](https://github.com/builtbybel/FluentCleaner) | <a href="https://github.com/builtbybel/FluentCleaner/stargazers"><img src="https://img.shields.io/github/stars/builtbybel/FluentCleaner?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/builtbybel/FluentCleaner/releases"><img src="https://img.shields.io/github/release-date/builtbybel/FluentCleaner?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                                 | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| ------------------------------------------------------------ | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [FluentCleaner](https://github.com/builtbybel/FluentCleaner) |       |         | ✅      | ❌    | ❌    | ❌      | ❌  | ❌  | ❌   | ❌     |
 
 ## 字符映射表
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Character-Map-UWP](https://github.com/character-map-uwp/Character-Map-UWP) | <a href="https://github.com/character-map-uwp/Character-Map-UWP/stargazers"><img src="https://img.shields.io/github/stars/character-map-uwp/Character-Map-UWP?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/character-map-uwp/Character-Map-UWP/releases"><img src="https://img.shields.io/github/release-date/character-map-uwp/Character-Map-UWP?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                                                | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| --------------------------------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [Character-Map-UWP](https://github.com/character-map-uwp/Character-Map-UWP) |       |         | ✅      | ❌    | ❌    | ❌      | ❌  | ❌  | ❌   | ❌     |
 
 ## 课程表
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [ClassIsland](https://github.com/ClassIsland/ClassIsland) | <a href="https://github.com/ClassIsland/ClassIsland/stargazers"><img src="https://img.shields.io/github/stars/ClassIsland/ClassIsland?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/ClassIsland/ClassIsland/releases"><img src="https://img.shields.io/github/release-date/ClassIsland/ClassIsland?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [shiguangschedule](https://github.com/ShiGuangSchedule/shiguangschedule) | <a href="https://github.com/ShiGuangSchedule/shiguangschedule/stargazers"><img src="https://img.shields.io/github/stars/ShiGuangSchedule/shiguangschedule?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/ShiGuangSchedule/shiguangschedule/releases"><img src="https://img.shields.io/github/release-date/ShiGuangSchedule/shiguangschedule?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                                             | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| ------------------------------------------------------------------------ | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [ClassIsland](https://github.com/ClassIsland/ClassIsland)                |       |         | ✅      | ✅    | ✅    | ❌      | ❌  | ❌  | ❌   | ❌     |
+| [shiguangschedule](https://github.com/ShiGuangSchedule/shiguangschedule) |       |         | ❌      | ❌    | ❌    | ✅      | ❌  | ❌  | ❌   | ❌     |
 
 ## Launchers
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [smartisan-launcher-maintained](https://github.com/rianlu/smartisan-launcher-maintained) | <a href="https://github.com/rianlu/smartisan-launcher-maintained/stargazers"><img src="https://img.shields.io/github/stars/rianlu/smartisan-launcher-maintained?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/rianlu/smartisan-launcher-maintained/releases"><img src="https://img.shields.io/github/release-date/rianlu/smartisan-launcher-maintained?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+
+| Repositories                                                                             | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
+| ---------------------------------------------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --- | --- | ---- | ------ |
+| [smartisan-launcher-maintained](https://github.com/rianlu/smartisan-launcher-maintained) |       |         | ❌      | ❌    | ❌    | ✅      | ❌  | ❌  | ❌   | ❌     |
 
 ## 知乎
 
-| Repositories | Stars | Release | Windows | macOS | Linux | Android | iOS | Web | tvOS | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Hydrogen](https://github.com/zhihulite/Hydrogen) | <a href="https://github.com/zhihulite/Hydrogen/stargazers"><img src="https://img.shields.io/github/stars/zhihulite/Hydrogen?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/zhihulite/Hydrogen/releases"><img src="https://img.shields.io/github/release-date/zhihulite/Hydrogen?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [zhihu-minus-minus](https://github.com/huamurui/zhihu-minus-minus) | <a href="https://github.com/huamurui/zhihu-minus-minus/stargazers"><img src="https://img.shields.io/github/stars/huamurui/zhihu-minus-minus?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/huamurui/zhihu-minus-minus/releases"><img src="https://img.shields.io/github/release-date/huamurui/zhihu-minus-minus?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
-| [zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus) | <a href="https://github.com/zly2006/zhihu-plus-plus/stargazers"><img src="https://img.shields.io/github/stars/zly2006/zhihu-plus-plus?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/zly2006/zhihu-plus-plus/releases"><img src="https://img.shields.io/github/release-date/zly2006/zhihu-plus-plus?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [zhihu-plus-plus-swift](https://github.com/Amadeus1P048596/zhihu-plus-plus-swift) | <a href="https://github.com/Amadeus1P048596/zhihu-plus-plus-swift/stargazers"><img src="https://img.shields.io/github/stars/Amadeus1P048596/zhihu-plus-plus-swift?style=flat-square&label=&color=22c55e" alt="GitHub stars"></a> | <a href="https://github.com/Amadeus1P048596/zhihu-plus-plus-swift/releases"><img src="https://img.shields.io/github/release-date/Amadeus1P048596/zhihu-plus-plus-swift?style=flat-square&label=&color=3b82f6" alt="Release Date"></a> | ❌ | ✅ | ❌ | ❌ | ✅ iPadOS | ❌ | ❌ | ❌ |
+
+| Repositories                                                                      | Stars | Release | Windows | macOS | Linux | Android | iOS       | Web | tvOS | Others |
+| --------------------------------------------------------------------------------- | ----- | ------- | ------- | ----- | ----- | ------- | --------- | --- | ---- | ------ |
+| [Hydrogen](https://github.com/zhihulite/Hydrogen)                                 |       |         | ❌      | ❌    | ❌    | ✅      | ❌        | ❌  | ❌   | ❌     |
+| [zhihu-minus-minus](https://github.com/huamurui/zhihu-minus-minus)                |       |         | ❌      | ❌    | ❌    | ✅      | ✅        | ❌  | ❌   | ❌     |
+| [zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus)                     |       |         | ✅      | ✅    | ✅    | ✅      | ❌        | ❌  | ❌   | ❌     |
+| [zhihu-plus-plus-swift](https://github.com/Amadeus1P048596/zhihu-plus-plus-swift) |       |         | ❌      | ✅    | ❌    | ❌      | ✅ iPadOS | ❌  | ❌   | ❌     |
 
 ## Contributing
 
@@ -252,6 +278,7 @@
 5. 提交 **Pull Request** 并简要说明新增项目
 
 **提交要求：**
+
 - 项目必须是开源的且可公开访问
 - 必须是「第三方客户端」类型项目
 - 项目需处于活跃维护状态（近一年内有提交）
